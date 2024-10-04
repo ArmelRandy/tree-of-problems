@@ -1,0 +1,77 @@
+Q: "Jean, Arthur"
+A: The last letter of "Jean" is "n". The last letter of "Arthur" is "r". Concatenating "n", "r" leads to "nr". So, "Jean, Arthur" outputs "nr".
+
+Q: "Jamie, Larry"
+A: The last letter of "Jamie" is "e". The last letter of "Larry" is "y". Concatenating "e", "y" leads to "ey". So, "Jamie, Larry" outputs "ey".
+
+We can conclude that
+
+Q: "Jean, Arthur, Jamie, Larry"
+A: According to the premises, "Jean, Arthur" outputs "nr". "Jamie, Larry" outputs "ey". Concatenating "nr", "ey" leads to "nrey". So, "Jean, Arthur, Jamie, Larry" outputs "nrey".
+
+###
+
+Q: "Eric, Shaun"
+A: The last letter of "Eric" is "c". The last letter of "Shaun" is "n". Concatenating "c", "n" leads to "cn". So, "Eric, Shaun" outputs "cn".
+
+Q: "Christopher, Wooh"
+A: The last letter of "Christopher" is "r". The last letter of "Wooh" is "h". Concatenating "r", "h" leads to "rh". So, "Christopher, Wooh" outputs "rh".
+
+We can conclude that
+
+Q: "Eric, Shaun, Christopher, Wooh"
+A: According to the premises, "Eric, Shaun" outputs "cn". "Christopher, Wooh" outputs "rh". Concatenating "cn", "rh" leads to "cnrh". So, "Eric, Shaun, Christopher, Wooh" outputs "cnrh".
+
+###
+
+Q: "Alan, Norbert"
+A: The last letter of "Alan" is "n". The last letter of "Norbert" is "t". Concatenating "n", "t" leads to "nt". So, "Alan, Norbert" outputs "nt".
+
+Q: "Jerome, Marta"
+A: The last letter of "Jerome" is "e". The last letter of "Marta" is "a". Concatenating "e", "a" leads to "ea". So, "Jerome, Marta" outupts "ea".
+
+We can conclude that
+
+Q: "Alan, Norbert, Jerome, Marta"
+A: According to the premises, "Alan, Norbert" outputs "nt". "Jerome, Marta" outputs "ea". Concatenating "nt", "ea", leads to "ntea". So, "Alan, Norbert, Jerome, Marta" outputs "ntea".
+
+###
+
+Q: "Scott, April"
+A: The last letter of "Scott" is "t". The last letter of "April" is "l". Concatenating "t", "l" leads to "tl". So, "Scott, April" outputs "tl".
+
+Q: "Daniel, Sandra"
+A: The last letter of "Daniel" is "l". The last letter of "Sandra" is "a". Concatenating "l", "a" leads to "la". So, "Daniel, Sandra" outputs "la".
+
+We can conclude that
+
+Q: "Scott, April, Daniel, Sandra"
+A: According to the premises, "Scott, April" outputs "tl". "Daniel, Sandra" outputs "la". Concatenating "tl", "la" leads to "tlla". So, "Scott, April, Daniel, Sandra" outputs "tlla".
+
+###
+
+Q: "Helena, Tom"
+A: The last letter of "Helena" is "a". The last letter of "Tom" is "m". Concatenating "a", "m" leads to "am". So, "Helena, Tom" outputs "am".
+
+Q: "Sergei, Eri"
+A: The last letter of "Sergei" is "i". The last letter of "Eri" is "i". Concatenating "i", "i" leads to "ii". So, "Sergei, Eri" outputs "ii".
+
+We can conclude that
+
+Q: "Helena, Tom, Sergei, Eri"
+A: According to the premises, "Helena, Tom" outputs "am". "Sergei, Eri" outputs "ii". Concatenating "am", "ii" leads to "amii". So, "Helena, Tom, Sergei, Eri" outputs "amii".
+
+###
+
+Q: "Lionel, Samuel"
+A: The last letter of "Lionel" is "l". The last letter of "Samuel" is "l". Concatenating "l", "l" leads to "ll". So, "Lionel, Samuel" outputs "ll".
+
+Q: "Carol, Dorothy"
+A: The last letter of "Carol" is "l". The last letter of "Dorothy" is "y". Concatenating "l", "y" leads to "ly". So, "Carol, Dorothy" outputs "ly".
+
+We can conclude that
+
+Q: "Lionel, Samuel, Carol, Dorothy"
+A: According to the premises, "Lionel, Samuel" outputs "ll". "Carol, Dorothy" outputs "ly". Concatenating "ll", "ly" leads to "llly". So, "Lionel, Samuel, Carol, Dorothy" outputs "llly".
+
+###

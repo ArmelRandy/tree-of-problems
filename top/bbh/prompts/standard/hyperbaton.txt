@@ -1,0 +1,25 @@
+Order adjectives correctly in English sentences.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+rubber terrible ship
+A: No
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+repulsive small Brazilian exercise ship
+A: Yes
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+terrible rubber ship
+A: Yes
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+wonderful square blue gold shoe
+A: Yes
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+Brazilian repulsive exercise small ship
+A: No
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+blue gold wonderful square shoe
+A: No

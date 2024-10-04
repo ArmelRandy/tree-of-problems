@@ -1,0 +1,481 @@
+{"sentence": "not ( True ) is", "output": "False"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not ( not False ) is", "output": "True"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( True ) and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False and True and False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not not False and True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( False or True ) is", "output": "True"}
+{"sentence": "True and not False is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( False and True ) is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( True or False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( False ) and not False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "True and False and False is", "output": "False"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "not not True and not True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not ( True and False ) is", "output": "True"}
+{"sentence": "not not False is", "output": "True"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and False and False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( False and not False ) is", "output": "False"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "( not True ) is", "output": "False"}
+{"sentence": "not not ( True ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( True ) and True is", "output": "True"}
+{"sentence": "not ( True ) or False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not True is", "output": "False"}
+{"sentence": "False or not False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "True and not False is", "output": "True"}
+{"sentence": "not not False or not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True and not True or False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False or True and False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and ( not False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not not not ( not False ) is", "output": "True"}
+{"sentence": "( True ) and True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False and False and False is", "output": "False"}
+{"sentence": "not not not not not not not False is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not False and not False is", "output": "True"}
+{"sentence": "False or True is", "output": "True"}
+{"sentence": "False and not False is", "output": "False"}
+{"sentence": "not ( True or True ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not not not True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not not not ( False and True ) is", "output": "True"}
+{"sentence": "not not True and not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "True and not not True is", "output": "True"}
+{"sentence": "True or True is", "output": "True"}
+{"sentence": "not False or False is", "output": "True"}
+{"sentence": "not False and False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not True ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not ( not False or True ) is", "output": "True"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not False ) and True is", "output": "True"}
+{"sentence": "not False or False is", "output": "True"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "not not False is", "output": "True"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( ( not True ) ) is", "output": "False"}
+{"sentence": "not False and not False is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( False ) and not False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( True ) and False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "False or not ( False ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True and not False is", "output": "True"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "not True and True and True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not ( False and not True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( ( False ) ) is", "output": "True"}
+{"sentence": "False or not True is", "output": "False"}
+{"sentence": "False or False is", "output": "False"}
+{"sentence": "False or not not True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not ( True or True or False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not not not not False is", "output": "True"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "True and not False is", "output": "True"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( not ( True ) ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "False or not True and True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not not not not not True is", "output": "True"}
+{"sentence": "( not False ) and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not ( True ) is", "output": "False"}
+{"sentence": "( not False or True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True and not not not False is", "output": "True"}
+{"sentence": "( True ) and True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( not True ) and True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "True and ( False ) is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not not not False and True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( True or not False ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( ( False ) ) is", "output": "False"}
+{"sentence": "not not ( False and not False ) is", "output": "True"}
+{"sentence": "not not not not True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( False or False ) is", "output": "True"}
+{"sentence": "True and True and True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "False or not False is", "output": "True"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "not False and False and False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( False ) or not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "not not ( False or not True ) is", "output": "True"}
+{"sentence": "False or not False is", "output": "True"}
+{"sentence": "False or False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not False and ( False ) is", "output": "False"}
+{"sentence": "False or ( False ) is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False and True and True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( True or not True ) is", "output": "True"}
+{"sentence": "True and not False and True is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False or not False is", "output": "True"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "( True or not False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( True ) and True is", "output": "False"}
+{"sentence": "not False and not True is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( True and not False ) is", "output": "True"}
+{"sentence": "not False or ( False ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( False and True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( False or not False ) is", "output": "True"}
+{"sentence": "False or not True is", "output": "False"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "( not ( True ) ) is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "not True and not True is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not ( True or False ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False or ( True ) is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False or False and False is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "True or False is", "output": "True"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "( True and True ) is", "output": "True"}
+{"sentence": "not True and True is", "output": "False"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( True or True ) is", "output": "True"}
+{"sentence": "not ( False or ( False ) ) is", "output": "True"}
+{"sentence": "not ( True or True ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False or not False is", "output": "True"}
+{"sentence": "True or True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and not not not False is", "output": "False"}
+{"sentence": "not ( True or False or True ) is", "output": "False"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "( True ) and not True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not True and False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not not not True is", "output": "False"}
+{"sentence": "False and False or False is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not ( False ) ) is", "output": "True"}
+{"sentence": "not True and True is", "output": "False"}
+{"sentence": "not not False is", "output": "True"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "( not True ) and True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "( ( True ) ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not True and False or False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "True or True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "True or not False and True is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( True or False ) is", "output": "False"}
+{"sentence": "not ( False and True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( True and True ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not True and not not False is", "output": "False"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not True or True and False is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( True and not True ) is", "output": "False"}
+{"sentence": "not False and not True is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "( not not True ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( ( True ) ) is", "output": "True"}
+{"sentence": "( False ) and False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not False and True is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not ( not False ) is", "output": "True"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "not not True and True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not ( not False ) is", "output": "True"}
+{"sentence": "not not ( True ) is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True or False is", "output": "True"}
+{"sentence": "not True or True is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "True and False and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not not not True is", "output": "True"}
+{"sentence": "not True and ( False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and not True and False is", "output": "False"}
+{"sentence": "not ( False or False or True ) is", "output": "True"}
+{"sentence": "not False or True is", "output": "True"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "not False and False or False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not True ) is", "output": "False"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "True and not not False is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not ( not not False ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( not False ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "False or True and not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not not not True is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and not ( True ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( not not True ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "not not not False and True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True or not True is", "output": "True"}
+{"sentence": "not not True is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not not False and False is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( False or False ) is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "False and not False is", "output": "False"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "not ( ( False and True ) ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not False ) and False is", "output": "False"}
+{"sentence": "False and not False is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "not False and not not True is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "not True or False and True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True or False is", "output": "True"}
+{"sentence": "not True and True is", "output": "False"}
+{"sentence": "False or False is", "output": "False"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "False or False is", "output": "False"}
+{"sentence": "True and not False is", "output": "True"}
+{"sentence": "not ( True or False ) is", "output": "False"}
+{"sentence": "not False and False is", "output": "False"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "not not not not True is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( not ( True ) ) is", "output": "False"}
+{"sentence": "True and False and not True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( ( not False ) ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( True ) is", "output": "False"}
+{"sentence": "( False ) is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False and False and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not ( False or False ) is", "output": "True"}
+{"sentence": "not True and False is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not False and not True is", "output": "False"}
+{"sentence": "not True or False is", "output": "True"}
+{"sentence": "True and True is", "output": "True"}
+{"sentence": "not True and True is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not True and True is", "output": "False"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "( True or False ) is", "output": "True"}
+{"sentence": "not True is", "output": "False"}
+{"sentence": "not not not ( False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not False and False is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "False and not True and True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not False and False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( False or not False ) is", "output": "True"}
+{"sentence": "not False or True is", "output": "True"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "True or ( not False ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False and False or True is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( not not False ) is", "output": "False"}
+{"sentence": "not not ( not True ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "False and not True is", "output": "False"}
+{"sentence": "True and False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and not ( True ) is", "output": "False"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "( True ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( ( True ) ) is", "output": "True"}
+{"sentence": "not False is", "output": "True"}
+{"sentence": "( not not False ) is", "output": "True"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "False and not False and True is", "output": "True"}
+{"sentence": "( not True and True ) is", "output": "False"}
+{"sentence": "not ( False ) is", "output": "True"}
+{"sentence": "not not False is", "output": "True"}
+{"sentence": "not ( False or False and False ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "not ( not not True ) is", "output": "False"}
+{"sentence": "False and False is", "output": "False"}
+{"sentence": "not ( True ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not False and False ) is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "( not not not True ) is", "output": "True"}
+{"sentence": "( not False ) is", "output": "True"}
+{"sentence": "not not False is", "output": "True"}
+{"sentence": "not False and False and True is", "output": "False"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "not False and ( False ) is", "output": "False"}
+{"sentence": "( not ( False ) ) is", "output": "True"}
+{"sentence": "False is", "output": "False"}
+{"sentence": "True and not True is", "output": "False"}
+{"sentence": "False and True is", "output": "False"}
+{"sentence": "not ( not not not not False ) is", "output": "True"}
+{"sentence": "True is", "output": "True"}
+{"sentence": "( not True or False ) is", "output": "True"}
+{"sentence": "not not not False is", "output": "True"}
+{"sentence": "True is", "output": "True"}

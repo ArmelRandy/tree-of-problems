@@ -1,0 +1,118 @@
+<Instruction> Count the frequency of how many times each country is explicitly named in the input text. You can generate any intermedate lists and states, but the final output should only contain the frequency of each country that appears at least once in the following json format, prefixed with "Output: " (make sure to keep the same spelling for each country in the output as in the input text):
+{{
+    "country1": frequency1,
+    "country2": frequency2,
+    ...
+}}
+</Instruction>
+
+<Approach>
+To count the frequency for each country follow these steps:
+1. Split the input passage into four paragraphs of similar length.
+2. Count the frequency of each country in each paragraph.
+3. Combine the frequencies of each country from each paragraph by adding them together.
+</Approach>
+
+<Examples>
+Input:
+Alexandra boarded the first flight of her grand journey, starting from Canada. With a globe-trotting itinerary in hand, she was filled with excitement. Her first stop was Mexico, where she marveled at the Mayan ruins. From there, she explored the rainforests of Brazil and danced the tango in Argentina.
+Paragraphs:
+Alexandra boarded the first flight of her grand journey, starting from Canada. With a globe-trotting itinerary in hand, she was filled with excitement.
+Her first stop was Mexico, where she marveled at the Mayan ruins. From there, she explored the rainforests of Brazil and danced the tango in Argentina.
+Sublist frequencies:
+{{
+    "Canada": 1
+}}
+{{
+    "Mexico": 1,
+    "Brazil": 1,
+    "Argentina": 1
+}}
+Output: 
+{{
+    "Canada": 1,
+    "Mexico": 1,
+    "Brazil": 1,
+    "Argentina": 1
+}}
+
+Input:
+The adventure led him to the peaks of Peru where he trekked to see the mysteries of Machu Picchu. He then headed to Chile to gaze at the vastness of the Atacama Desert. A quick detour to Uruguay and Paraguay allowed him to experience the vibrancy of the local cultures before returning back to Canada through Peru, Brazil and Mexico.
+Paragraphs:
+The adventure led him to the peaks of Peru where he trekked to see the mysteries of Machu Picchu. He then headed to Chile to gaze at the vastness of the Atacama Desert.
+A quick detour to Uruguay and Paraguay allowed him to experience the vibrancy of the local cultures before returning back to Canada through Peru, Brazil and Mexico.
+Sublists:
+{{
+    "Peru": 1,
+    "Chile": 1
+}}
+{{
+    "Uruguay": 1,
+    "Paraguay": 1,
+    "Canada": 1,
+    "Peru": 1,
+    "Brazil": 1,
+    "Mexico": 1
+}}
+Output: 
+{{
+    "Peru": 2,
+    "Chile": 1,
+    "Uruguay": 1,
+    "Paraguay": 1,
+    "Canada": 1,
+    "Brazil": 1,
+    "Mexico": 1
+}}
+
+Input:
+Journeying westward, she admired the art in Italy and sipped coffee in France. The music of Spain and the history of Greece deepened her love for Europe. The Nordic beauty of Norway, Sweden, Finland, and Denmark took her breath away. She danced in Ireland, explored castles in Scotland, and marveled at the architecture in Germany and Russia. Italy, Norway, Sweden and Germany will always stay her favourite destinations to visit.
+Paragraphs:
+Journeying westward, she admired the art in Italy and sipped coffee in France.
+The music of Spain and the history of Greece deepened her love for Europe. The Nordic beauty of Norway, Sweden, Finland, and Denmark took her breath away.
+She danced in Ireland, explored castles in Scotland, and marveled at the architecture in Germany and Russia.
+Italy, Norway, Sweden and Germany will always stay her favourite destinations to visit.
+Sublists:
+{{
+    "Italy": 1,
+    "France": 1
+}}
+{{
+    "Spain": 1,
+    "Greece": 1,
+    "Norway": 1,
+    "Sweden": 1,
+    "Finland": 1,
+    "Denmark": 1
+}}
+{{
+    "Ireland": 1,
+    "Scotland": 1,
+    "Germany": 1,
+    "Russia": 1
+}}
+{{
+    "Italy": 1,
+    "Norway": 1,
+    "Sweden": 1,
+    "Germany": 1
+}}
+Output: 
+{{
+    "Italy": 2,
+    "France": 1,
+    "Spain": 1,
+    "Greece": 1,
+    "Norway": 2,
+    "Sweden": 2,
+    "Finland": 1,
+    "Denmark": 1,
+    "Ireland": 1,
+    "Scotland": 1,
+    "Germany": 2,
+    "Russia": 1
+}}
+</Examples>
+
+Input:
+{input_text}

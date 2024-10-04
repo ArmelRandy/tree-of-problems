@@ -1,0 +1,50 @@
+Q: 80 + 28 - 10 + 64
+A: Let's think step by step. Add, 80 + 28 = 108. Subtract, 108 - 10 = 98. Add, 98 + 64 = 162. So the answer is 162.
+
+Q: - 31 - 11 + 85 + 65
+A: Let's think step by step. Subtract, - 31 - 11 = -42. Add, -42 + 85 = 43. Add, 43 + 65 = 108. So the answer is 108.
+
+We can conclude that
+
+Q: 80 + 28 - 10 + 64 - 31 - 11 + 85 + 65
+A: Let's think step by step.
+This equation can be written as "A + B", where A = 80 + 28 - 10 + 64 and B = - 31 - 11 + 85 + 65.
+According to the premises, A = 80 + 28 - 10 + 64 = 162.
+According to the premises, B = - 31 - 11 + 85 + 65 = 65.
+The answer is then A + B = 162 + 108 = 170. So the answer is 270.
+
+###
+
+Q: 27 - 82 - 66 + 90
+A: Let's think step by step. Subtract 27 - 82 = -55. Subtract, -55 - 66 = -121. Add, -121 + 90 = -31. So the answer is - 31.
+
+Q: 19 + 23 - 65 + 27
+A: Let's think step by step. Add 19 + 23 = 42. Subtract, 42 - 65 = -23. Add, -23 + 27 = 4. So the answer is 4.
+
+We can conclude that
+
+Q: 27 - 82 - 66 + 90 + 19 + 23 - 65 + 27
+A: Let's think step by step.
+This equation can be written as "A + B", where A = 27 - 82 - 66 + 90 and B = 19 + 23 - 65 + 27.
+According to the premises, A = 27 - 82 - 66 + 90 = -31.
+According to the premises, B = 19 + 23 - 65 + 27 = 4.
+The answer is then A + B = -31 + 4 = -27. So the answer is -27.
+
+###
+
+Q: 64 - 65 - 38 - 22 
+A: Let's think step by step. Subtract, 64 - 65 = - 1. Subtract, - 1 - 38 = - 39. Subtract, -39 - 22 = - 61. So the answer is - 61.
+
+Q: - 95 + 71 - 37 - 88
+A: Let's think step by step. Add, - 95 + 71 = - 24. Subtract, - 24 - 37 = - 61. Subtract, - 61 - 88 = - 149. So the answer is - 149.
+
+We can conclude that
+
+Q: 64 - 65 - 38 - 22 - 95 + 71 - 37 - 88
+A: Let's think step by step.
+This equation can be written as "A + B", where A = 64 - 65 - 38 - 22 and B = - 95 + 71 - 37 - 88.
+According to the premises, A = 64 - 65 - 38 - 22 = -61.
+According to the premises, B = - 95 + 71 - 37 - 88 = -149.
+The answer is then A + B = -61 + -149 = -210. So the answer is -210.
+
+###

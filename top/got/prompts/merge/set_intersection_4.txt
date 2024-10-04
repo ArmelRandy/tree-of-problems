@@ -1,0 +1,22 @@
+<Instruction> Combine the following four lists into a single list by appending them all together. Ignore empty lists.
+Only output the final list without any additional text or thoughts! </Instruction>
+
+<Examples>
+List 1: [37, 29, 7]
+List 2: []
+List 3: [71]
+List 4: [88, 3, 1, 91]
+Output: [37, 29, 7, 71, 88, 3, 1, 91]
+
+List 1: [5, 7, 3, 32, 15, 27]
+List 2: [11, 0, 23, 8]
+List 3: [10, 31, 19]
+List 4: [4, 48, 99, 49, 63]
+Output: [5, 7, 3, 32, 15, 27, 11, 0, 23, 8, 10, 31, 19, 4, 48, 99, 49, 63]
+
+</Examples>
+
+List 1: {input1}
+List 2: {input2}
+List 3: {input3}
+List 4: {input4}

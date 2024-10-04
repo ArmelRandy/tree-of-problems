@@ -1,0 +1,500 @@
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize old grey Brazilian sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize grey Brazilian old sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize gray Mexican rubber walking cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrubber gray walking Mexican midsize cat", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious big Indian iron smoking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig smoking mysterious Indian iron motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular cloth smoking motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth smoking rectangular motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npyramidal American glass exercise surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nglass exercise American pyramidal surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize ancient spherical knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nspherical ancient midsize knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly old-fashioned tan dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntan silly old-fashioned dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive prismlike American wool chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwool repulsive prismlike American chair", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size archaic prismlike purple American car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic purple prismlike American medium-size car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous rectangular blue dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous blue rectangular dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood pyramidal grey Indian cloth computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood pyramidal cloth Indian grey computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible tiny new square Egyptian typing sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew typing square Egyptian tiny terrible sock", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood normal-size white Pakistani paper snorkeling monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nPakistani normal-size white paper good snorkeling monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsquare red silver chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver square red chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice American computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nAmerican nice computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous yellow Egyptian driving computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving yellow enormous Egyptian computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous yellow Egyptian monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous Egyptian yellow monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely midsize green Filipino sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nFilipino midsize lovely green sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful medium-size white Pakistani leather monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nleather wonderful Pakistani white medium-size monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive big rectangular pink steel exercise shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npink big exercise repulsive steel rectangular shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful big circular orange Pakistani smoking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular wonderful smoking Pakistani big orange car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size prismlike grey cardboard cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nprismlike cardboard grey medium-size cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew white lead walking surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwalking lead new white surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious ancient yellow walking cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nancient mysterious yellow walking cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig new triangular American leather chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew leather big triangular American chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous big ancient rectangular green silver knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular silver ancient green ridiculous big knife", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly midsize tan computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize silly tan computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous grey cardboard whittling motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncardboard ridiculous whittling grey motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous brand-new German drinking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new drinking German enormous motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned square Congolese driving dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsquare Congolese driving old-fashioned dog", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall square grey Japanese cloth shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall grey square cloth Japanese shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive huge archaic triangular Russian ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nRussian huge repulsive archaic triangular ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular American computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nAmerican triangular computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size black Japanese cloth hiking knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhiking Japanese black medium-size cloth knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize prismlike orange iron snorkeling knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsnorkeling iron prismlike orange midsize knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive new green Pakistani silver exercise computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver new repulsive exercise green Pakistani computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious triangular red Indonesian gold shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nIndonesian triangular obnoxious gold red shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive ancient white cloth car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth white ancient repulsive car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice midsize gray whittling baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize whittling gray nice baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew green chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngreen new chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize old pyramidal American monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nAmerican old midsize pyramidal monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic pink Vietnamese wood cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic pink wood Vietnamese cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful Russian steel chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nRussian steel awful chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful archaic orange gold surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic gold orange awful surfboard", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful medium-size rectangular black walking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwalking black medium-size rectangular wonderful car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful tiny old tan iron driving motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving tiny wonderful iron old tan motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful old triangular yellow motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular yellow old awful motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny brand-new triangular grey Indian whittling dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny whittling grey brand-new Indian triangular dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible midsize snorkeling baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible snorkeling midsize baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous new triangular Nigerian lead cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous Nigerian triangular new lead cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely triangular Brazilian drinking monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndrinking Brazilian lovely triangular monkey", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngreen wool sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwool green sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous spherical Indian drinking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndrinking enormous spherical Indian sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive large new rectangular red rubber whittling sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nred rubber repulsive new rectangular whittling large sweater", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible old-fashioned Turkish baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned terrible Turkish baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly huge old-fashioned triangular tan Pakistani baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular tan Pakistani silly huge old-fashioned baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge old-fashioned cloth hiking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth hiking huge old-fashioned shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize old-fashioned Congolese steel exercise match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nexercise old-fashioned steel midsize Congolese match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive old-fashioned triangular pink cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned pink massive triangular cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice old-fashioned Iranian lead monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nIranian nice lead old-fashioned monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned white Russian iron computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned Russian white iron computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful large prismlike pink cloth exercise shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth pink prismlike wonderful exercise large shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge tan fiberglass car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nfiberglass large tan car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely old silver monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold silver lovely monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious midsize old-fashioned purple chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious purple midsize old-fashioned chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngrey Chinese drinking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nChinese drinking grey motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig circular pink Thai silver driving car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver circular driving big Thai pink car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig ancient square red American cardboard eating shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nred ancient big cardboard American square eating shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny rectangular purple fiberglass dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular tiny purple fiberglass dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous midsize old-fashioned pyramidal gray wool driving sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned wool midsize pyramidal gray ridiculous driving sock", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible square Turkish chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nTurkish square terrible chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nNigerian whittling computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwhittling Nigerian computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblue driving car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving blue car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold drinking monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndrinking old monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious old circular black Pakistani steel exercise surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular Pakistani exercise steel mysterious black old surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful silver snorkeling sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsnorkeling awful silver sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious medium-size red Indonesian monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious Indonesian medium-size red monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible archaic pyramidal white Nigerian match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npyramidal Nigerian terrible white archaic match", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold rectangular purple Congolese sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold purple Congolese rectangular sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize purple Russian gold snorkeling sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngold Russian midsize purple snorkeling sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous triangular American walking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous walking American triangular car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous square Russian smoking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous smoking square Russian car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely ancient triangular orange Turkish wood smoking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nTurkish wood smoking lovely orange ancient triangular shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious huge old-fashioned prismlike smoking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned huge obnoxious prismlike smoking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible archaic tan Vietnamese walking baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwalking archaic terrible Vietnamese tan baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous massive brand-new pink wood baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new pink ridiculous wood massive baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous pyramidal white Indonesian glass smoking cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npyramidal Indonesian enormous smoking white glass cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive little pink Indonesian drinking dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle pink Indonesian drinking repulsive dog", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size ancient rectangular Congolese whittling ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size whittling rectangular ancient Congolese ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely tiny triangular black knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblack triangular tiny lovely knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice midsize brand-new drinking surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndrinking nice brand-new midsize surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious big prismlike orange Filipino glass knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious big prismlike Filipino orange glass knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size old-fashioned Filipino ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size Filipino old-fashioned ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge spherical tan cloth snorkeling ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge snorkeling tan cloth spherical ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall pyramidal driving chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving pyramidal small chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice little brand-new spherical purple lead chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle brand-new lead nice spherical purple chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice archaic rectangular grey snorkeling baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic nice snorkeling rectangular grey baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible big Russian cloth typing computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig cloth typing Russian terrible computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig square ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsquare big ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice enormous blue Bangladeshi dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nBangladeshi nice blue enormous dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular brown glass walking baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nglass brown circular walking baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new circular Pakistani surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nPakistani circular brand-new surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely new rectangular purple Pakistani typing sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely purple Pakistani rectangular new typing sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic square orange wool dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic wool square orange dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive normal-size old-fashioned green cardboard surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive normal-size green old-fashioned cardboard surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize prismlike Japanese rubber exercise shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nprismlike exercise Japanese rubber midsize shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive old-fashioned rectangular green Japanese exercise ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular exercise green old-fashioned Japanese repulsive ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny archaic rubber smoking ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny rubber archaic smoking ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood large red chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge red good chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew green Turkish walking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew walking Turkish green sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle black driving ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving little black ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely archaic cardboard cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncardboard archaic lovely cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible large brand-new cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new terrible large cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle rectangular orange American shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular American orange little shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful black typing computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblack typing awful computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nancient pyramidal pink Indian paper ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npaper Indian ancient pink pyramidal ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious ancient Indonesian paper cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npaper mysterious ancient Indonesian cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig brand-new orange fiberglass snorkeling knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsnorkeling fiberglass brand-new orange big knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious midsize wood computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious wood midsize computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious little Bangladeshi silver baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver mysterious little Bangladeshi baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold fiberglass surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nfiberglass old surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood massive Thai cardboard sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive cardboard good Thai sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny Thai fiberglass eating car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nThai tiny fiberglass eating car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice little pyramidal red Nigerian drinking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle nice Nigerian red drinking pyramidal car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge archaic red Indonesian sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge red Indonesian archaic sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood rubber cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrubber good cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new square black wool eating motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\neating square wool brand-new black motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nancient spherical gray glass hiking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nglass spherical gray hiking ancient shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive square sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsquare massive sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nMexican paper baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npaper Mexican baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful square Japanese silver motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nJapanese silver square awful motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful large triangular Bangladeshi eating computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular eating large wonderful Bangladeshi computer", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood ancient square Indian motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nancient Indian good square motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge orange Iranian iron computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\norange large iron Iranian computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely archaic pyramidal brown Nigerian fiberglass motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely fiberglass archaic pyramidal Nigerian brown motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize iron dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\niron midsize dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge old Pakistani snorkeling ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nPakistani snorkeling large old ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood huge old black Iranian wood walking chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge good black old walking Iranian wood chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly old-fashioned prismlike Nigerian hiking chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nNigerian silly old-fashioned hiking prismlike chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious new spherical Turkish silver dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew Turkish spherical silver obnoxious dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new grey paper sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngrey paper brand-new sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold circular brown Turkish wool car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrown circular Turkish wool old car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new green cloth typing knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth brand-new green typing knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful enormous new purple drinking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npurple new enormous drinking awful motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall archaic square leather sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic small leather square sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible old prismlike Mexican hiking knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold hiking terrible prismlike Mexican knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly grey silver chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver grey silly chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely enormous Russian whittling motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nRussian whittling lovely enormous motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous old-fashioned cardboard cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncardboard ridiculous old-fashioned cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive prismlike smoking chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive smoking prismlike chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice old red Bangladeshi hiking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice old Bangladeshi red hiking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize triangular Congolese drinking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nCongolese triangular midsize drinking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive massive ancient eating shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive repulsive eating ancient shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle tan snorkeling match", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntan snorkeling little match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny new triangular gray walking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular new gray tiny walking car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned square white Japanese cardboard exercise motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsquare cardboard old-fashioned Japanese exercise white motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious pyramidal Indian sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious Indian pyramidal sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful small new fiberglass walking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwonderful fiberglass small new walking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood old-fashioned spherical brown Bangladeshi paper driving shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving paper old-fashioned brown Bangladeshi good spherical shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice enormous gold sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous nice gold sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous little match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle ridiculous match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny old-fashioned prismlike pink Chinese surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny old-fashioned pink prismlike Chinese surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic spherical hiking match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic hiking spherical match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice little prismlike Russian knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle prismlike Russian nice knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnew rectangular tan plastic drinking computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrectangular plastic drinking new tan computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nred Ethiopian match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nEthiopian red match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nobnoxious small spherical red American leather ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall obnoxious American spherical leather red ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood square Ethiopian snorkeling motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nEthiopian square snorkeling good motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice small circular eating chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\neating small circular nice chair", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge new tan Indian dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nIndian huge new tan dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious orange lead walking surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious lead orange walking surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful huge iron walking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge awful iron walking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive Congolese cloth smoking surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth smoking massive Congolese surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold Congolese fiberglass snorkeling sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsnorkeling Congolese fiberglass old sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny new circular cloth sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular tiny new cloth sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious massive brown Nigerian fiberglass whittling ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwhittling brown Nigerian fiberglass massive mysterious ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful huge tan wool car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntan wool huge awful car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous tiny archaic prismlike Thai cardboard sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic ridiculous prismlike tiny cardboard Thai sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely brand-new rectangular exercise dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nexercise rectangular brand-new lovely dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblue plastic smoking ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmoking plastic blue ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood old prismlike monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nprismlike good old monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnormal-size archaic green Brazilian typing car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngreen typing Brazilian archaic normal-size car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle old green snorkeling sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold snorkeling little green sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible normal-size circular red fiberglass baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nred normal-size circular fiberglass terrible baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive huge rectangular black lead match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive rectangular black huge lead match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny pyramidal rubber knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny rubber pyramidal knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous circular yellow Pakistani gold snorkeling baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous circular Pakistani snorkeling gold yellow baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned rectangular Nigerian rubber snorkeling monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nNigerian rectangular old-fashioned rubber snorkeling monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize circular fiberglass knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular fiberglass midsize knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely massive Russian baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive lovely Russian baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful small paper ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npaper awful small ship", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous tan chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntan enormous chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall brand-new circular car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncircular small brand-new car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible spherical pink typing chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nspherical terrible pink typing chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely gray German ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nGerman gray lovely ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly triangular purple cloth exercise sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular purple exercise cloth silly sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous big pyramidal leather sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous pyramidal big leather sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful little triangular paper motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular awful paper little motorcycle", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful tiny new triangular pink Vietnamese steel match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular new Vietnamese steel tiny awful pink match", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive normal-size blue Indian wool dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblue Indian repulsive wool normal-size dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly midsize rectangular Thai paper dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize Thai silly paper rectangular dog", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood spherical shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nspherical good shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge brand-new spherical red Congolese plastic chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nspherical Congolese brand-new red plastic large chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely tiny old-fashioned pyramidal Pakistani glass eating cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npyramidal lovely old-fashioned Pakistani tiny eating glass cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly ancient brown smoking shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrown silly smoking ancient shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall old-fashioned grey plastic sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nplastic grey old-fashioned small sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely little archaic prismlike black smoking motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle lovely smoking archaic black prismlike motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned circular rubber hiking cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrubber old-fashioned hiking circular cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful normal-size purple eating knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful purple normal-size eating knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely pink shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npink lovely shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive brand-new yellow Turkish rubber hiking knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nyellow hiking brand-new Turkish rubber repulsive knife", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible archaic paper knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic paper terrible knife", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive prismlike glass shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nglass repulsive prismlike shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous circular Thai wool driving dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndriving Thai wool enormous circular dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nancient spherical black cardboard hiking match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nblack hiking cardboard ancient spherical match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nprismlike brown silver hiking shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver prismlike hiking brown shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlittle ancient Vietnamese cloth sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ncloth Vietnamese little ancient sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge new spherical purple smoking sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge spherical purple smoking new sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely normal-size spherical green Nigerian exercise ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnormal-size spherical Nigerian lovely exercise green ship", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive ancient triangular orange silver hiking computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhiking ancient triangular silver massive orange computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmedium-size silver dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver medium-size dog", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous paper shoe", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npaper ridiculous shoe", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned rectangular brown Russian baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nRussian brown old-fashioned rectangular baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsmall ancient spherical brown Russian fiberglass sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nRussian spherical ancient fiberglass small brown sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive large pyramidal red Ethiopian smoking chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive Ethiopian large red smoking pyramidal chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmidsize brand-new purple Vietnamese fiberglass sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nfiberglass midsize brand-new Vietnamese purple sweater", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned circular green cardboard exercise computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned green exercise circular cardboard computer", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice little spherical lead chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlead nice spherical little chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntiny rectangular pink driving surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npink driving tiny rectangular surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngood tan Bangladeshi paper drinking monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ndrinking good Bangladeshi tan paper monkey", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold pyramidal brown drinking monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold drinking pyramidal brown monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice small square white steel motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nnice steel square white small motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbrand-new Turkish iron monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nTurkish iron brand-new monkey", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlovely old gray motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ngray lovely old motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nridiculous triangular pink surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\ntriangular pink ridiculous surfboard", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful tan Mexican rubber car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful Mexican rubber tan car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge purple motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\npurple huge motorcycle", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nawful enormous archaic exercise sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\narchaic enormous awful exercise sock", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge rectangular Turkish knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nTurkish rectangular large knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nhuge ancient square yellow typing car", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nyellow huge typing square ancient car", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly little rectangular red cloth eating sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nred little silly cloth eating rectangular sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmassive brand-new spherical Egyptian cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nspherical massive Egyptian brand-new cat", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nrepulsive prismlike Brazilian exercise baby", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nexercise repulsive Brazilian prismlike baby", "output": "No"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nbig ancient Iranian wool smoking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nwool Iranian ancient big smoking sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nmysterious medium-size old prismlike red Vietnamese silver sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilver red Vietnamese prismlike mysterious old medium-size sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly tiny plastic knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nplastic tiny silly knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nterrible enormous typing chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nenormous terrible typing chair", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly old-fashioned Indian driving knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nold-fashioned silly Indian driving knife", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nsilly old prismlike Mexican sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nMexican prismlike old silly sock", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nlarge archaic square tan Egyptian smoking match", "output": "Yes"}
+{"sentence": "Answer with Yes or No. Does the following sentence have the correct adjective order?\nEgyptian tan large smoking archaic square match", "output": "Yes"}

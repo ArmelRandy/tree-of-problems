@@ -1,0 +1,250 @@
+{"sentence": "not ( True ) and ( True ) is", "propositions": ["not ( True ) is", "( True ) is"]}
+{"sentence": "True and not not ( not False ) is", "propositions": ["True is", "not not ( not False ) is"]}
+{"sentence": "not True or False or ( False ) is", "propositions": ["not True or False is", "( False ) is"]}
+{"sentence": "False or not ( True ) and False is", "propositions": ["False is", "not ( True ) and False is"]}
+{"sentence": "True or not False and True and False is", "propositions": ["True is", "not False and True and False is"]}
+{"sentence": "False or not not not False and True is", "propositions": ["False is", "not not not False and True is"]}
+{"sentence": "not True and ( False or True ) is", "propositions": ["not True is", "( False or True ) is"]}
+{"sentence": "True and not False or ( True ) is", "propositions": ["True and not False is", "( True ) is"]}
+{"sentence": "not True or ( False and True ) is", "propositions": ["not True is", "( False and True ) is"]}
+{"sentence": "not True or ( True or False ) is", "propositions": ["not True is", "( True or False ) is"]}
+{"sentence": "False or ( False ) and not False is", "propositions": ["False is", "( False ) and not False is"]}
+{"sentence": "not False or True and False and False is", "propositions": ["not False is", "True and False and False is"]}
+{"sentence": "not True or False or not not True is", "propositions": ["not True or False is", "not not True is"]}
+{"sentence": "True and True and False and not True is", "propositions": ["True and True is", "False and not True is"]}
+{"sentence": "not not True and not True or True is", "propositions": ["not not True and not True is", "True is"]}
+{"sentence": "not not not ( True and False ) is", "propositions": ["not not not ( True and False ) is"]}
+{"sentence": "not not False and not not not False is", "propositions": ["not not False is", "not not not False is"]}
+{"sentence": "( True and not True and False ) is", "propositions": ["True and not True is", "False is"]}
+{"sentence": "False and False and False or not False is", "propositions": ["False and False and False is", "not False is"]}
+{"sentence": "False or ( False and not False ) is", "propositions": ["False is", "( False and not False ) is"]}
+{"sentence": "True and False or ( not True ) is", "propositions": ["True and False is", "( not True ) is"]}
+{"sentence": "not not ( True ) and not False is", "propositions": ["not not ( True ) is", "not False is"]}
+{"sentence": "not False or ( True ) and True is", "propositions": ["not False is", "( True ) and True is"]}
+{"sentence": "not ( True ) or False or True is", "propositions": ["not ( True ) or False is", "True is"]}
+{"sentence": "( True and not not not True ) is", "propositions": ["True is", "not not not True is"]}
+{"sentence": "( False or not False or False ) is", "propositions": ["False or not False is", "False is"]}
+{"sentence": "False and False or True and not False is", "propositions": ["False and False is", "True and not False is"]}
+{"sentence": "not not False or not False or True is", "propositions": ["not not False or not False is", "True is"]}
+{"sentence": "True and not True or False or True is", "propositions": ["True and not True or False is", "True is"]}
+{"sentence": "not False or True and False or False is", "propositions": ["not False or True and False is", "False is"]}
+{"sentence": "False and ( not False ) or False is", "propositions": ["False and ( not False ) is", "False is"]}
+{"sentence": "not not not not ( not False ) is", "propositions": ["not not not not ( not False ) is"]}
+{"sentence": "( True ) and True or not True is", "propositions": ["( True ) and True is", "not True is"]}
+{"sentence": "not True or False and False and False is", "propositions": ["not True is", "False and False and False is"]}
+{"sentence": "not not not not not not not False is", "propositions": ["not not not not not not not False is"]}
+{"sentence": "not True or not False and not False is", "propositions": ["not True is", "not False and not False is"]}
+{"sentence": "False or True or False and not False is", "propositions": ["False or True is", "False and not False is"]}
+{"sentence": "not ( True or True ) and False is", "propositions": ["not ( True or True ) is", "False is"]}
+{"sentence": "not not not not True and not True is", "propositions": ["not not not not True is", "not True is"]}
+{"sentence": "( False ) or False and not True is", "propositions": ["( False ) is", "False and not True is"]}
+{"sentence": "( False and True or not False ) is", "propositions": ["False and True is", "not False is"]}
+{"sentence": "not not not ( False and True ) is", "propositions": ["not not not ( False and True ) is"]}
+{"sentence": "not not True and not False or True is", "propositions": ["not not True and not False is", "True is"]}
+{"sentence": "not False or True and not not True is", "propositions": ["not False is", "True and not not True is"]}
+{"sentence": "True or True or not False or False is", "propositions": ["True or True is", "not False or False is"]}
+{"sentence": "( not False and False and False ) is", "propositions": ["not False and False is", "False is"]}
+{"sentence": "( ( not True ) or True ) is", "propositions": ["( not True ) is", "True is"]}
+{"sentence": "not not ( not False or True ) is", "propositions": ["not not ( not False or True ) is"]}
+{"sentence": "not True or False or ( True ) is", "propositions": ["not True or False is", "( True ) is"]}
+{"sentence": "False or ( not False ) and True is", "propositions": ["False is", "( not False ) and True is"]}
+{"sentence": "not False or False or ( False ) is", "propositions": ["not False or False is", "( False ) is"]}
+{"sentence": "not not False or False and not True is", "propositions": ["not not False is", "False and not True is"]}
+{"sentence": "True or ( ( not True ) ) is", "propositions": ["True is", "( ( not True ) ) is"]}
+{"sentence": "not False and not False and not False is", "propositions": ["not False and not False is", "not False is"]}
+{"sentence": "( False ) and not False and True is", "propositions": ["( False ) and not False is", "True is"]}
+{"sentence": "( True ) and False or not False is", "propositions": ["( True ) and False is", "not False is"]}
+{"sentence": "( not False and ( True ) ) is", "propositions": ["not False is", "( True ) is"]}
+{"sentence": "False or not ( False ) or True is", "propositions": ["False or not ( False ) is", "True is"]}
+{"sentence": "True and not False and not not True is", "propositions": ["True and not False is", "not not True is"]}
+{"sentence": "not True and True and True or False is", "propositions": ["not True and True and True is", "False is"]}
+{"sentence": "not not ( False and not True ) is", "propositions": ["not not ( False and not True ) is"]}
+{"sentence": "True or not ( ( False ) ) is", "propositions": ["True is", "not ( ( False ) ) is"]}
+{"sentence": "False or not True or False or False is", "propositions": ["False or not True is", "False or False is"]}
+{"sentence": "False or not not True or not False is", "propositions": ["False or not not True is", "not False is"]}
+{"sentence": "not ( True or True or False ) is", "propositions": ["not ( True or True or False ) is"]}
+{"sentence": "False or not not not not not False is", "propositions": ["False is", "not not not not not False is"]}
+{"sentence": "not ( False ) or not not True is", "propositions": ["not ( False ) is", "not not True is"]}
+{"sentence": "True and not False or False and False is", "propositions": ["True and not False is", "False and False is"]}
+{"sentence": "True or ( not ( True ) ) is", "propositions": ["True is", "( not ( True ) ) is"]}
+{"sentence": "( False or True and not True ) is", "propositions": ["False is", "True and not True is"]}
+{"sentence": "False or not True and True or True is", "propositions": ["False or not True and True is", "True is"]}
+{"sentence": "not not not not not not not True is", "propositions": ["not not not not not not not True is"]}
+{"sentence": "( not False ) and False or True is", "propositions": ["( not False ) and False is", "True is"]}
+{"sentence": "False and False or not ( True ) is", "propositions": ["False and False is", "not ( True ) is"]}
+{"sentence": "( not False or True ) and True is", "propositions": ["( not False or True ) is", "True is"]}
+{"sentence": "not ( False ) and ( False ) is", "propositions": ["not ( False ) is", "( False ) is"]}
+{"sentence": "False or True and not not not False is", "propositions": ["False is", "True and not not not False is"]}
+{"sentence": "( True ) and True and not True is", "propositions": ["( True ) and True is", "not True is"]}
+{"sentence": "( not True ) and True and False is", "propositions": ["( not True ) and True is", "False is"]}
+{"sentence": "( not not True and not False ) is", "propositions": ["not not True is", "not False is"]}
+{"sentence": "True and ( False ) or not False is", "propositions": ["True and ( False ) is", "not False is"]}
+{"sentence": "not not not False or False and False is", "propositions": ["not not not False is", "False and False is"]}
+{"sentence": "not not not False and True or False is", "propositions": ["not not not False and True is", "False is"]}
+{"sentence": "True or ( True or not False ) is", "propositions": ["True is", "( True or not False ) is"]}
+{"sentence": "not False or ( ( False ) ) is", "propositions": ["not False is", "( ( False ) ) is"]}
+{"sentence": "not not ( False and not False ) is", "propositions": ["not not ( False and not False ) is"]}
+{"sentence": "not not not not True or not True is", "propositions": ["not not not not True is", "not True is"]}
+{"sentence": "False and not ( False or False ) is", "propositions": ["False is", "not ( False or False ) is"]}
+{"sentence": "True and True and True or not False is", "propositions": ["True and True and True is", "not False is"]}
+{"sentence": "False or not False or True and True is", "propositions": ["False or not False is", "True and True is"]}
+{"sentence": "not False and False and False or False is", "propositions": ["not False and False and False is", "False is"]}
+{"sentence": "( False ) or not False or True is", "propositions": ["( False ) or not False is", "True is"]}
+{"sentence": "( not False ) or ( True ) is", "propositions": ["( not False ) is", "( True ) is"]}
+{"sentence": "not not ( False or not True ) is", "propositions": ["not not ( False or not True ) is"]}
+{"sentence": "False or not False or False or False is", "propositions": ["False or not False is", "False or False is"]}
+{"sentence": "False or not False and ( False ) is", "propositions": ["False is", "not False and ( False ) is"]}
+{"sentence": "False or ( False ) or not True is", "propositions": ["False or ( False ) is", "not True is"]}
+{"sentence": "not True or False and True and True is", "propositions": ["not True is", "False and True and True is"]}
+{"sentence": "True or ( True or not True ) is", "propositions": ["True is", "( True or not True ) is"]}
+{"sentence": "True and not False and True or True is", "propositions": ["True and not False and True is", "True is"]}
+{"sentence": "False or not False or not not True is", "propositions": ["False or not False is", "not not True is"]}
+{"sentence": "( True or not False ) or False is", "propositions": ["( True or not False ) is", "False is"]}
+{"sentence": "False or not ( True ) and True is", "propositions": ["False is", "not ( True ) and True is"]}
+{"sentence": "not False and not True and not False is", "propositions": ["not False and not True is", "not False is"]}
+{"sentence": "False and ( True and not False ) is", "propositions": ["False is", "( True and not False ) is"]}
+{"sentence": "not False or ( False ) or True is", "propositions": ["not False or ( False ) is", "True is"]}
+{"sentence": "False and not ( False and True ) is", "propositions": ["False is", "not ( False and True ) is"]}
+{"sentence": "( True or not not not False ) is", "propositions": ["True is", "not not not False is"]}
+{"sentence": "False and ( False or not False ) is", "propositions": ["False is", "( False or not False ) is"]}
+{"sentence": "False or not True or True and False is", "propositions": ["False or not True is", "True and False is"]}
+{"sentence": "True and not True or True and True is", "propositions": ["True and not True is", "True and True is"]}
+{"sentence": "( not False or ( True ) ) is", "propositions": ["not False is", "( True ) is"]}
+{"sentence": "( ( not ( True ) ) ) is", "propositions": ["( not ( True ) ) is"]}
+{"sentence": "False and False and not ( False ) is", "propositions": ["False and False is", "not ( False ) is"]}
+{"sentence": "not True and not True and not True is", "propositions": ["not True and not True is", "not True is"]}
+{"sentence": "not ( True or False ) or True is", "propositions": ["not ( True or False ) is", "True is"]}
+{"sentence": "False or ( True ) or not True is", "propositions": ["False or ( True ) is", "not True is"]}
+{"sentence": "False or False and False or not True is", "propositions": ["False or False and False is", "not True is"]}
+{"sentence": "True or False or not True or False is", "propositions": ["True or False is", "not True or False is"]}
+{"sentence": "not True and ( True and True ) is", "propositions": ["not True is", "( True and True ) is"]}
+{"sentence": "not True and True or True and False is", "propositions": ["not True and True is", "True and False is"]}
+{"sentence": "not False or ( True or True ) is", "propositions": ["not False is", "( True or True ) is"]}
+{"sentence": "not ( False or ( False ) ) is", "propositions": ["not ( False or ( False ) ) is"]}
+{"sentence": "not ( True or True ) and True is", "propositions": ["not ( True or True ) is", "True is"]}
+{"sentence": "False or not False or True or True is", "propositions": ["False or not False is", "True or True is"]}
+{"sentence": "False or False and not not not False is", "propositions": ["False is", "False and not not not False is"]}
+{"sentence": "not ( True or False or True ) is", "propositions": ["not ( True or False or True ) is"]}
+{"sentence": "( False ) or not True and False is", "propositions": ["( False ) is", "not True and False is"]}
+{"sentence": "True and True and not not not False is", "propositions": ["True and True is", "not not not False is"]}
+{"sentence": "( True ) or True and not True is", "propositions": ["( True ) is", "True and not True is"]}
+{"sentence": "False and False and not True and False is", "propositions": ["False and False is", "not True and False is"]}
+{"sentence": "( True ) and not True or True is", "propositions": ["( True ) and not True is", "True is"]}
+{"sentence": "not not not True and False and False is", "propositions": ["not not not True and False is", "False is"]}
+{"sentence": "False and False and not not not True is", "propositions": ["False and False is", "not not not True is"]}
+{"sentence": "False and False or False or not True is", "propositions": ["False and False or False is", "not True is"]}
+{"sentence": "False or ( not ( False ) ) is", "propositions": ["False is", "( not ( False ) ) is"]}
+{"sentence": "not True and True and not not False is", "propositions": ["not True and True is", "not not False is"]}
+{"sentence": "( False ) and ( not False ) is", "propositions": ["( False ) is", "( not False ) is"]}
+{"sentence": "( not True ) and True or True is", "propositions": ["( not True ) and True is", "True is"]}
+{"sentence": "False and True and ( not False ) is", "propositions": ["False and True is", "( not False ) is"]}
+{"sentence": "( ( True ) ) or not False is", "propositions": ["( ( True ) ) is", "not False is"]}
+{"sentence": "not True and False or False or True is", "propositions": ["not True and False or False is", "True is"]}
+{"sentence": "True and not True and True and True is", "propositions": ["True and not True is", "True and True is"]}
+{"sentence": "( True or True or not False ) is", "propositions": ["True or True is", "not False is"]}
+{"sentence": "True or not False and True or True is", "propositions": ["True or not False and True is", "True is"]}
+{"sentence": "( not ( False ) or False ) is", "propositions": ["not ( False ) is", "False is"]}
+{"sentence": "True and not ( True or False ) is", "propositions": ["True is", "not ( True or False ) is"]}
+{"sentence": "not ( False and True ) and True is", "propositions": ["not ( False and True ) is", "True is"]}
+{"sentence": "not ( True and True ) or False is", "propositions": ["not ( True and True ) is", "False is"]}
+{"sentence": "False or not True and not not False is", "propositions": ["False is", "not True and not not False is"]}
+{"sentence": "not True and False or False and False is", "propositions": ["not True and False is", "False and False is"]}
+{"sentence": "not True or True and False or False is", "propositions": ["not True or True and False is", "False is"]}
+{"sentence": "( not ( False ) and False ) is", "propositions": ["not ( False ) is", "False is"]}
+{"sentence": "False or ( True and not True ) is", "propositions": ["False is", "( True and not True ) is"]}
+{"sentence": "not False and not True or not True is", "propositions": ["not False and not True is", "not True is"]}
+{"sentence": "( False or not not not False ) is", "propositions": ["False is", "not not not False is"]}
+{"sentence": "( not False ) or True and False is", "propositions": ["( not False ) is", "True and False is"]}
+{"sentence": "( not not True ) or not False is", "propositions": ["( not not True ) is", "not False is"]}
+{"sentence": "True or not ( ( True ) ) is", "propositions": ["True is", "not ( ( True ) ) is"]}
+{"sentence": "( False ) and False or not False is", "propositions": ["( False ) and False is", "not False is"]}
+{"sentence": "not False and True or ( True ) is", "propositions": ["not False and True is", "( True ) is"]}
+{"sentence": "True or not not ( not False ) is", "propositions": ["True is", "not not ( not False ) is"]}
+{"sentence": "False and not True and False and True is", "propositions": ["False and not True is", "False and True is"]}
+{"sentence": "not not True and True and not True is", "propositions": ["not not True and True is", "not True is"]}
+{"sentence": "not False or not ( not False ) is", "propositions": ["not False is", "not ( not False ) is"]}
+{"sentence": "not not ( True ) or not True is", "propositions": ["not not ( True ) is", "not True is"]}
+{"sentence": "( True and not True and True ) is", "propositions": ["True and not True is", "True is"]}
+{"sentence": "True or False or not True or True is", "propositions": ["True or False is", "not True or True is"]}
+{"sentence": "not True or True and False and False is", "propositions": ["not True is", "True and False and False is"]}
+{"sentence": "True and not not not not not True is", "propositions": ["True is", "not not not not not True is"]}
+{"sentence": "not True and ( False ) and False is", "propositions": ["not True and ( False ) is", "False is"]}
+{"sentence": "False and False or not True and False is", "propositions": ["False and False is", "not True and False is"]}
+{"sentence": "True or False and not True and False is", "propositions": ["True is", "False and not True and False is"]}
+{"sentence": "not ( False or False or True ) is", "propositions": ["not ( False or False or True ) is"]}
+{"sentence": "not False or True or True and False is", "propositions": ["not False or True is", "True and False is"]}
+{"sentence": "not False and False or False or False is", "propositions": ["not False and False or False is", "False is"]}
+{"sentence": "( not True ) and ( False ) is", "propositions": ["( not True ) is", "( False ) is"]}
+{"sentence": "True and not not False and not False is", "propositions": ["True and not not False is", "not False is"]}
+{"sentence": "not ( not not False ) and True is", "propositions": ["not ( not not False ) is", "True is"]}
+{"sentence": "not ( not False ) and not False is", "propositions": ["not ( not False ) is", "not False is"]}
+{"sentence": "False or True and not False or True is", "propositions": ["False or True and not False is", "True is"]}
+{"sentence": "( not not not True and True ) is", "propositions": ["not not not True is", "True is"]}
+{"sentence": "False and not ( True ) or True is", "propositions": ["False and not ( True ) is", "True is"]}
+{"sentence": "( not True and False or True ) is", "propositions": ["not True and False is", "True is"]}
+{"sentence": "not ( not not True ) or False is", "propositions": ["not ( not not True ) is", "False is"]}
+{"sentence": "( not False ) or ( False ) is", "propositions": ["( not False ) is", "( False ) is"]}
+{"sentence": "not not not False and True and False is", "propositions": ["not not not False and True is", "False is"]}
+{"sentence": "True or not True or not not True is", "propositions": ["True or not True is", "not not True is"]}
+{"sentence": "not False or not not False and False is", "propositions": ["not False is", "not not False and False is"]}
+{"sentence": "not False and ( False or False ) is", "propositions": ["not False is", "( False or False ) is"]}
+{"sentence": "False and True or ( not False ) is", "propositions": ["False and True is", "( not False ) is"]}
+{"sentence": "False and not False and ( False ) is", "propositions": ["False and not False is", "( False ) is"]}
+{"sentence": "not ( ( False and True ) ) is", "propositions": ["not ( ( False and True ) ) is"]}
+{"sentence": "False or ( not False ) and False is", "propositions": ["False is", "( not False ) and False is"]}
+{"sentence": "False and not False or False and True is", "propositions": ["False and not False is", "False and True is"]}
+{"sentence": "not False and not not True and True is", "propositions": ["not False and not not True is", "True is"]}
+{"sentence": "True and True or False and not True is", "propositions": ["True and True is", "False and not True is"]}
+{"sentence": "not True or False and True or False is", "propositions": ["not True or False and True is", "False is"]}
+{"sentence": "True or False or not True and True is", "propositions": ["True or False is", "not True and True is"]}
+{"sentence": "False or False or not True or False is", "propositions": ["False or False is", "not True or False is"]}
+{"sentence": "False or False or True and not False is", "propositions": ["False or False is", "True and not False is"]}
+{"sentence": "( not ( True or False ) ) is", "propositions": ["not ( True or False ) is"]}
+{"sentence": "not False and False or True and True is", "propositions": ["not False and False is", "True and True is"]}
+{"sentence": "True and False or ( not False ) is", "propositions": ["True and False is", "( not False ) is"]}
+{"sentence": "not False or not not not not True is", "propositions": ["not False is", "not not not not True is"]}
+{"sentence": "True and ( not ( True ) ) is", "propositions": ["True is", "( not ( True ) ) is"]}
+{"sentence": "True and False and not True or False is", "propositions": ["True and False and not True is", "False is"]}
+{"sentence": "( ( not False ) ) and True is", "propositions": ["( ( not False ) ) is", "True is"]}
+{"sentence": "not ( True ) and ( False ) is", "propositions": ["not ( True ) is", "( False ) is"]}
+{"sentence": "True or not False and False and False is", "propositions": ["True is", "not False and False and False is"]}
+{"sentence": "True and not ( False or False ) is", "propositions": ["True is", "not ( False or False ) is"]}
+{"sentence": "not True and False or False and True is", "propositions": ["not True and False is", "False and True is"]}
+{"sentence": "not True or not False and not True is", "propositions": ["not True is", "not False and not True is"]}
+{"sentence": "not True or False or True and True is", "propositions": ["not True or False is", "True and True is"]}
+{"sentence": "not True and True and False and True is", "propositions": ["not True and True is", "False and True is"]}
+{"sentence": "False and False or not True and True is", "propositions": ["False and False is", "not True and True is"]}
+{"sentence": "( not False or False and True ) is", "propositions": ["not False is", "False and True is"]}
+{"sentence": "( True or False ) or not True is", "propositions": ["( True or False ) is", "not True is"]}
+{"sentence": "not not not ( False ) and False is", "propositions": ["not not not ( False ) is", "False is"]}
+{"sentence": "not False and False and False and True is", "propositions": ["not False and False is", "False and True is"]}
+{"sentence": "False and not True and True or False is", "propositions": ["False and not True and True is", "False is"]}
+{"sentence": "( False or not False and False ) is", "propositions": ["False is", "not False and False is"]}
+{"sentence": "False or ( False or not False ) is", "propositions": ["False is", "( False or not False ) is"]}
+{"sentence": "not False or True or False and False is", "propositions": ["not False or True is", "False and False is"]}
+{"sentence": "True or ( not False ) or True is", "propositions": ["True or ( not False ) is", "True is"]}
+{"sentence": "not False and False or True or False is", "propositions": ["not False and False or True is", "False is"]}
+{"sentence": "False and not ( not not False ) is", "propositions": ["False is", "not ( not not False ) is"]}
+{"sentence": "not not ( not True ) or False is", "propositions": ["not not ( not True ) is", "False is"]}
+{"sentence": "False and not True and True and False is", "propositions": ["False and not True is", "True and False is"]}
+{"sentence": "True or False and not ( True ) is", "propositions": ["True is", "False and not ( True ) is"]}
+{"sentence": "not ( False ) and ( True ) is", "propositions": ["not ( False ) is", "( True ) is"]}
+{"sentence": "False and not ( ( True ) ) is", "propositions": ["False is", "not ( ( True ) ) is"]}
+{"sentence": "not False or ( not not False ) is", "propositions": ["not False is", "( not not False ) is"]}
+{"sentence": "( ( not False ) and False ) is", "propositions": ["( not False ) is", "False is"]}
+{"sentence": "True or False and not False and True is", "propositions": ["True is", "False and not False and True is"]}
+{"sentence": "( ( not True and True ) ) is", "propositions": ["( not True and True ) is"]}
+{"sentence": "not ( False ) or not not False is", "propositions": ["not ( False ) is", "not not False is"]}
+{"sentence": "not ( False or False and False ) is", "propositions": ["not ( False or False and False ) is"]}
+{"sentence": "False and not ( not not True ) is", "propositions": ["False is", "not ( not not True ) is"]}
+{"sentence": "False and False and not ( True ) is", "propositions": ["False and False is", "not ( True ) is"]}
+{"sentence": "False or ( not False and False ) is", "propositions": ["False is", "( not False and False ) is"]}
+{"sentence": "False or ( not not not True ) is", "propositions": ["False is", "( not not not True ) is"]}
+{"sentence": "( not False ) or not not False is", "propositions": ["( not False ) is", "not not False is"]}
+{"sentence": "not False and False and True or False is", "propositions": ["not False and False and True is", "False is"]}
+{"sentence": "True or not False and ( False ) is", "propositions": ["True is", "not False and ( False ) is"]}
+{"sentence": "( not ( False ) ) or False is", "propositions": ["( not ( False ) ) is", "False is"]}
+{"sentence": "True and not True or False and True is", "propositions": ["True and not True is", "False and True is"]}
+{"sentence": "not ( not not not not False ) is", "propositions": ["not ( not not not not False ) is"]}
+{"sentence": "True and ( not True or False ) is", "propositions": ["True is", "( not True or False ) is"]}
+{"sentence": "( not not not False or True ) is", "propositions": ["not not not False is", "True is"]}

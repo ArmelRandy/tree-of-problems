@@ -1,0 +1,22 @@
+A logical deduction task which requires deducing the order of a sequence of objects.
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. In a golf tournament, there were three golfers: Amy, Eli, and Eve. Eve finished above Amy. Eli finished below Amy. What is the ordering of the golfers?
+A: Let's think step by step.
+(1) Eve finished above Amy: "(above) ? Eve ? Amy ? (below)".
+(2) Eli finished below Amy: "(above) ? Eve ? Amy ? Eli ? (below)".
+(3) Combining (1) and (2) we get the following ordering: "(above) Eve Amy Eli (below)".
+So the answer is Eve, Amy, Eli.
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a white book, a green book, and an orange book. The green book is to the right of the white book. The orange book is the rightmost. What is the ordering (from left to right) of the books?
+A: Let's think step by step.
+(1) The green book is to the right of the white book: "(left) ? white ? green ? (right)".
+(2) The orange book is the rightmost: "(left) ? white ? green ? orange ? (right)".
+(3) Combining (1) and (2) we get the following ordering: "(left) white green orange (right)".
+So the answer is White book, Green book, Orange book.
+
+Q: The following paragraphs each describe a set of three objects arranged in a fixed order. The statements are logically consistent within each paragraph. On a shelf, there are three books: a red book, a gray book, and a white book. The white book is to the left of the gray book. The red book is the second from the left. What is the ordering (from left to right) of the books?
+A: Let's think step by step.
+(1) The white book is to the left of the gray book: "(left) ? white ? gray ? (right)".
+(2) The red book is the second from the left: "(left) ? white red gray ? (right)".
+(3) Combining (1) and (2) we get the following ordering: "(left) white red gray (right)".
+So the answer is White book, Red book, Gray book.

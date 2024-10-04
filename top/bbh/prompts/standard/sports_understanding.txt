@@ -1,0 +1,13 @@
+Determine whether an artificially constructed sentence relating to sports is plausible or not. Answer with yes or no.
+
+Q: Is the following sentence plausible? Answer with yes or no.
+Bam Adebayo scored a reverse layup in the Western Conference Finals.
+A: yes
+
+Q: Is the following sentence plausible? Answer with yes or no.
+Santi Cazorla scored a touchdown.
+A: no
+
+Q: Is the following sentence plausible? Answer with yes or no.
+DeMar DeRozan was called for the goal tend.
+A: yes

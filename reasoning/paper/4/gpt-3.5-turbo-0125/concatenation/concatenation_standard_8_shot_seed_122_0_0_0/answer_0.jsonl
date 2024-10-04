@@ -1,0 +1,500 @@
+{"sentence": "Jeffrey, Mary, Erica, Jennifer", "output": "The concatenation of the last letters of the words \"Jeffrey, Mary, Erica, Jennifer\" is \"yayr\"."}
+{"sentence": "Patricia, Isaiah, Aaron, Colleen", "output": "The concatenation of the last letters of the words \"Patricia, Isaiah, Aaron, Colleen\" is \"aien\"."}
+{"sentence": "Matthew, Robert, Craig, Brian", "output": "The concatenation of the last letters of the words \"Matthew, Robert, Craig, Brian\" is \"whan\"."}
+{"sentence": "Tina, Brent, Jennifer, Kyle", "output": "The concatenation of the last letters of the words \"Tina, Brent, Jennifer, Kyle\" is \"atel\"."}
+{"sentence": "Michaela, Katelyn, Dorothy, Drew", "output": "The concatenation of the last letters of the words \"Michaela, Katelyn, Dorothy, Drew\" is \"anwn\"."}
+{"sentence": "Brenda, Anthony, Jennifer, Thomas", "output": "The concatenation of the last letters of the words \"Brenda, Anthony, Jennifer, Thomas\" is \"ayrs\"."}
+{"sentence": "Megan, Julia, Brittany, Ethan", "output": "The concatenation of the last letters of the words \"Megan, Julia, Brittany, Ethan\" is \"naya\"."}
+{"sentence": "Michael, Justin, Eric, Shelley", "output": "The concatenation of the last letters of the words \"Michael, Justin, Eric, Shelley\" is \"lnte\"."}
+{"sentence": "Rhonda, Randy, Tara, Ashley", "output": "The concatenation of the last letters of the words \"Rhonda, Randy, Tara, Ashley\" is \"aeya\"."}
+{"sentence": "Derrick, Mary, Amanda, Erica", "output": "The concatenation of the last letters of the words \"Derrick, Mary, Amanda, Erica\" is \"kyaa\"."}
+{"sentence": "Ryan, Patrick, Kevin, Cheryl", "output": "The concatenation of the last letters of the words \"Ryan, Patrick, Kevin, Cheryl\" is \"nyin\"."}
+{"sentence": "Samuel, Jeffrey, Sarah, Sherry", "output": "\"lyry\""}
+{"sentence": "Rachael, Andrew, April, Paul", "output": "The concatenation of the last letters of the words \"Rachael, Andrew, April, Paul\" is \"lwdl\"."}
+{"sentence": "Timothy, Kimberly, Thomas, Steve", "output": "The concatenation of the last letters of the words \"Timothy, Kimberly, Thomas, Steve\" is \"yrs.\""}
+{"sentence": "Raymond, Michael, Suzanne, Lori", "output": "The concatenation of the last letters of the words \"Raymond, Michael, Suzanne, Lori\" is \"dlsi\"."}
+{"sentence": "Lawrence, Levi, Audrey, Kurt", "output": "The concatenation of the last letters of the words \"Lawrence, Levi, Audrey, Kurt\" is \"eiiu\"."}
+{"sentence": "Megan, Michael, Austin, David", "output": "The concatenation of the last letters of the words \"Megan, Michael, Austin, David\" is \"nlda\"."}
+{"sentence": "Randall, Jacob, Jonathan, Heather", "output": "The concatenation of the last letters of the words \"Randall, Jacob, Jonathan, Heather\" is \"ldnt\"."}
+{"sentence": "Michael, Joshua, Miranda, Rose", "output": "\"lase\""}
+{"sentence": "Howard, Lauren, Mitchell, Kevin", "output": "The concatenation of the last letters of the words \"Howard, Lauren, Mitchell, Kevin\" is \"dnln\"."}
+{"sentence": "James, Austin, Ashley, Cassandra", "output": "The concatenation of the last letters of the words \"James, Austin, Ashley, Cassandra\" is \"esey\"."}
+{"sentence": "Angel, Sarah, Joshua, David", "output": "The concatenation of the last letters of the words \"Angel, Sarah, Joshua, David\" is \"lhrd\"."}
+{"sentence": "Veronica, Gabriela, Matthew, Christopher", "output": "The concatenation of the last letters of the words \"Veronica, Gabriela, Matthew, Christopher\" is \"aahr\"."}
+{"sentence": "Jacqueline, Alicia, Monique, Jason", "output": "The concatenation of the last letters of the words \"Jacqueline, Alicia, Monique, Jason\" is \"eeen\"."}
+{"sentence": "Benjamin, Madeline, Stephen, Dustin", "output": "The concatenation of the last letters of the words \"Benjamin, Madeline, Stephen, Dustin\" is \"nnesn\"."}
+{"sentence": "Jennifer, Michael, Lauren, Johnny", "output": "\"nrln\""}
+{"sentence": "Jasmin, Victoria, Jacob, Alfred", "output": "\"nnbf\""}
+{"sentence": "Tammy, Kathleen, Troy, Timothy", "output": "\"yyym\""}
+{"sentence": "Samuel, Cristina, Charles, Michael", "output": "The concatenation of the last letters of the words \"Samuel, Cristina, Charles, Michael\" is \"lata\"."}
+{"sentence": "Laura, Scott, Thomas, Daniel", "output": "The concatenation of the last letters of the words \"Laura, Scott, Thomas, Daniel\" is \"atls\"."}
+{"sentence": "Michael, Sarah, Steven, Anthony", "output": "The concatenation of the last letters of the words \"Michael, Sarah, Steven, Anthony\" is \"lhya\"."}
+{"sentence": "Nicole, Daniel, Jason, Dalton", "output": "The concatenation of the last letters of the words \"Nicole, Daniel, Jason, Dalton\" is \"elnt\"."}
+{"sentence": "Brandon, Ronnie, Mary, Daniel", "output": "The concatenation of the last letters of the words \"Brandon, Ronnie, Mary, Daniel\" is \"nyay\"."}
+{"sentence": "Jared, Javier, Michael, Patrick", "output": "The concatenation of the last letters of the words \"Jared, Javier, Michael, Patrick\" is \"drrk\"."}
+{"sentence": "Justin, James, Harold, Maria", "output": "The concatenation of the last letters of the words \"Justin, James, Harold, Maria\" is \"nsea\"."}
+{"sentence": "Jacob, Crystal, Christina, Diana", "output": "The concatenation of the last letters of the words in the last question is \"mlna\"."}
+{"sentence": "Chelsea, Erica, Yolanda, Nicholas", "output": "The concatenation of the last letters of the words \"Chelsea, Erica, Yolanda, Nicholas\" is \"aayl\"."}
+{"sentence": "Jean, Lisa, Debbie, Harold", "output": "The concatenation of the last letters of the words \"Jean, Lisa, Debbie, Harold\" is \"nabe\"."}
+{"sentence": "Stephanie, Christopher, Rachel, James", "output": "The concatenation of the last letters of the words \"Stephanie, Christopher, Rachel, James\" is \"eher\"."}
+{"sentence": "Brian, Candice, Susan, Andre", "output": "The concatenation of the last letters of the names \"Brian, Candice, Susan, Andre\" is \"nese\"."}
+{"sentence": "Jasmine, Brandy, Anthony, Zachary", "output": "The concatenation of the last letters of the words \"Jasmine, Brandy, Anthony, Zachary\" is \"enay\"."}
+{"sentence": "William, Jacqueline, Leonard, Jeffery", "output": "\"yldy\""}
+{"sentence": "Jack, Melissa, Patricia, Jeremy", "output": "The concatenation of the last letters of the words \"Jack, Melissa, Patricia, Jeremy\" is \"kayy\"."}
+{"sentence": "Blake, Amy, Timothy, Tricia", "output": "The concatenation of the last letters of the words \"Blake, Amy, Timothy, Tricia\" is \"eayc\"."}
+{"sentence": "Jose, Bryan, Ryan, Nathaniel", "output": "The concatenation of the last letters of the words \"Jose, Bryan, Ryan, Nathaniel\" is \"enln\"."}
+{"sentence": "Joseph, Alicia, Andrew, Monica", "output": "The concatenation of the last letters of the words in \"Joseph, Alicia, Andrew, Monica\" is \"hcaa\"."}
+{"sentence": "Lance, Brandon, Brandon, Jennifer", "output": "\"eeer\""}
+{"sentence": "Derrick, Adam, William, Mario", "output": "The concatenation of the last letters of the words \"Derrick, Adam, William, Mario\" is \"kmdo\"."}
+{"sentence": "Ronald, Lori, Calvin, Andrew", "output": "The concatenation of the last letters of \"Ronald, Lori, Calvin, Andrew\" is \"dlan\"."}
+{"sentence": "Carla, Anthony, Michelle, Natalie", "output": "The concatenation of the last letters of the words \"Carla, Anthony, Michelle, Natalie\" is \"ayee\"."}
+{"sentence": "Victoria, Elijah, Donna, Elizabeth", "output": "\"rahn\""}
+{"sentence": "Rachel, Lisa, Zachary, Eric", "output": "The concatenation of the last letters of the words \"Rachel, Lisa, Zachary, Eric\" is \"lecy\"."}
+{"sentence": "Brandon, Savannah, Derrick, Samuel", "output": "The concatenation of the last letters of the words \"Brandon, Savannah, Derrick, Samuel\" is \"ndll\"."}
+{"sentence": "Drew, Mary, Christina, Kenneth", "output": "The concatenation of the last letters of the words \"Drew, Mary, Christina, Kenneth\" is \"wyha\"."}
+{"sentence": "Edward, Victoria, Rebecca, Donald", "output": "The concatenation of the last letters of the words \"Edward, Victoria, Rebecca, Donald\" is \"drna\"."}
+{"sentence": "Joel, Kathleen, Rebecca, Margaret", "output": "The concatenation of the last letters of the names \"Joel, Kathleen, Rebecca, Margaret\" is \"lner\"."}
+{"sentence": "Charlene, Jesus, Tamara, Francisco", "output": "The concatenation of the last letters of the words \"Charlene, Jesus, Tamara, Francisco\" is \"enrs\"."}
+{"sentence": "Brian, Christopher, Steven, Stephanie", "output": "\"nrhn\""}
+{"sentence": "Brian, Spencer, Erica, Nicholas", "output": "The concatenation of the last letters of the words \"Brian, Spencer, Erica, Nicholas\" is \"nraa\"."}
+{"sentence": "Laura, Amanda, Tamara, Scott", "output": "\"raot\""}
+{"sentence": "Sandra, Melanie, Marissa, Anthony", "output": "The concatenation of the last letters of the words in \"Sandra, Melanie, Marissa, Anthony\" is \"aeya\"."}
+{"sentence": "Ryan, Beth, Melissa, Mia", "output": "The concatenation of the last letters of the words \"Ryan, Beth, Melissa, Mia\" is \"ntha\"."}
+{"sentence": "Andrew, Linda, Victor, Jessica", "output": "\"raas\""}
+{"sentence": "Karen, James, John, Jennifer", "output": "The concatenation of the last letters of the words \"Karen, James, John, Jennifer\" is \"nsnn\"."}
+{"sentence": "Charles, Jacqueline, Mark, Isaac", "output": "The concatenation of the last letters of the words \"Charles, Jacqueline, Mark, Isaac\" is \"eskc\"."}
+{"sentence": "Frank, April, Lindsey, Belinda", "output": "The concatenation of the last letters of the words \"Frank, April, Lindsey, Belinda\" is \"klda\"."}
+{"sentence": "Derrick, Stephanie, Courtney, Carmen", "output": "The concatenation of the last letters of the words \"Derrick, Stephanie, Courtney, Carmen\" is \"eyeyeyen\"."}
+{"sentence": "Gary, Carl, Victoria, Connie", "output": "The concatenation of the last letters of the words \"Gary, Carl, Victoria, Connie\" is \"ylia\"."}
+{"sentence": "Samantha, Javier, Michael, Veronica", "output": "The concatenation of the last letters of the words \"Samantha, Javier, Michael, Veronica\" is \"aeal\"."}
+{"sentence": "Edward, Katie, Edward, Mark", "output": "The concatenation of the last letters of the words \"Edward, Katie, Edward, Mark\" is \"deta\"."}
+{"sentence": "Kevin, Brian, Emily, Kenneth", "output": "The concatenation of the last letters of the words \"Kevin, Brian, Emily, Kenneth\" is \"nnny\"."}
+{"sentence": "Michelle, Shannon, Shawna, Terrance", "output": "The concatenation of the last letters of the words \"Michelle, Shannon, Shawna, Terrance\" is \"enae\"."}
+{"sentence": "Gregory, Nicholas, Cynthia, John", "output": "The concatenation of the last letters of the words \"Gregory, Nicholas, Cynthia, John\" is \"ysan\"."}
+{"sentence": "Maria, Timothy, Steven, Kelsey", "output": "The concatenation of the last letters of the words \"Maria, Timothy, Steven, Kelsey\" is \"ayyn\"."}
+{"sentence": "Tamara, Carrie, Michelle, Craig", "output": "The concatenation of the last letters of the words \"Tamara, Carrie, Michelle, Craig\" is \"arre\"."}
+{"sentence": "Laurie, Brett, Matthew, Andrew", "output": "The concatenation of the last letters of the words \"Laurie, Brett, Matthew, Andrew\" is \"etew\"."}
+{"sentence": "Lori, Steven, Lauren, Megan", "output": "The concatenation of the last letters of the words \"Lori, Steven, Lauren, Megan\" is \"ienn\"."}
+{"sentence": "Zachary, Michael, Christina, Timothy", "output": "\"ylat\""}
+{"sentence": "John, William, Cory, Jack", "output": "The concatenation of the last letters of the words \"John, William, Cory, Jack\" is \"nryk\"."}
+{"sentence": "Ruben, Stephanie, David, Richard", "output": "The concatenation of the last letters of the words \"Ruben, Stephanie, David, Richard\" is \"enid.\""}
+{"sentence": "Kristin, Mary, Nicholas, Patrick", "output": "The concatenation of the last letters of the words \"Kristin, Mary, Nicholas, Patrick\" is \"nspy\"."}
+{"sentence": "Eric, Leonard, Kelly, Sara", "output": "The concatenation of the last letters of the words \"Eric, Leonard, Kelly, Sara\" is \"cyly\"."}
+{"sentence": "Nathan, Bradley, Daniel, James", "output": "The concatenation of the last letters of the words \"Nathan, Bradley, Daniel, James\" is \"nlys\"."}
+{"sentence": "Samantha, Jimmy, Michael, Megan", "output": "The concatenation of the last letters of the words \"Samantha, Jimmy, Michael, Megan\" is \"ahel\"."}
+{"sentence": "Donald, William, Amanda, Amanda", "output": "The concatenation of the last letters of the words \"Donald, William, Amanda, Amanda\" is \"dmda\"."}
+{"sentence": "Ryan, Amber, Matthew, Stephanie", "output": "The concatenation of the last letters of the words \"Ryan, Amber, Matthew, Stephanie\" is \"nert\"."}
+{"sentence": "Megan, Alexander, Deborah, Alyssa", "output": "The concatenation of the last letters of the words \"Megan, Alexander, Deborah, Alyssa\" is \"nraa\"."}
+{"sentence": "Debra, Michael, Jennifer, Gregory", "output": "\"aror\""}
+{"sentence": "Jennifer, Kathryn, Thomas, Nicholas", "output": "The concatenation of the last letters of the words \"Jennifer, Kathryn, Thomas, Nicholas\" is \"rnns\"."}
+{"sentence": "William, Patricia, Jennifer, Martin", "output": "The concatenation of the last letters of the words \"William, Patricia, Jennifer, Martin\" is \"ltfr\"."}
+{"sentence": "Michelle, Amy, Steven, Michelle", "output": "The concatenation of the last letters of the words \"Michelle, Amy, Steven, Michelle\" is \"eysn\"."}
+{"sentence": "Joshua, Benjamin, James, Brian", "output": "The concatenation of the last letters of the words \"Joshua, Benjamin, James, Brian\" is \"anrs\"."}
+{"sentence": "Jeffrey, Karen, Tracy, Sharon", "output": "The concatenation of the last letters of the words \"Jeffrey, Karen, Tracy, Sharon\" is \"ynyn\"."}
+{"sentence": "Tabitha, Jeffrey, Laura, Sarah", "output": "The concatenation of the last letters of the words \"Tabitha, Jeffrey, Laura, Sarah\" is \"ahra\"."}
+{"sentence": "Maria, Patricia, Sarah, Melissa", "output": "The concatenation of the last letters of the words \"Maria, Patricia, Sarah, Melissa\" is \"aiia\"."}
+{"sentence": "Aaron, John, Guy, Danielle", "output": "The concatenation of the last letters of the words \"Aaron, John, Guy, Danielle\" is \"nnye\"."}
+{"sentence": "Allison, Nancy, Charles, David", "output": "The concatenation of the last letters of the words \"Allison, Nancy, Charles, David\" is \"nydsd\"."}
+{"sentence": "Scott, Angela, Joanna, Corey", "output": "\"ttac\""}
+{"sentence": "Thomas, Daniel, Valerie, Jasmine", "output": "\"seie\""}
+{"sentence": "Jesse, Regina, Steven, Brenda", "output": "The concatenation of the last letters of the words \"Jesse, Regina, Steven, Brenda\" is \"eana\"."}
+{"sentence": "Roger, Joshua, Aaron, Edward", "output": "The concatenation of the last letters of the words \"Roger, Joshua, Aaron, Edward\" is \"rhea\"."}
+{"sentence": "Anthony, Seth, Alan, Evan", "output": "The concatenation of the last letters of the words \"Anthony, Seth, Alan, Evan\" is \"ynan\"."}
+{"sentence": "Elizabeth, Ray, Lauren, Karen", "output": "The concatenation of the last letters of the words \"Elizabeth, Ray, Lauren, Karen\" is \"hnne\"."}
+{"sentence": "Rebecca, Steven, Susan, Amber", "output": "The concatenation of the last letters of the words \"Rebecca, Steven, Susan, Amber\" is \"anan\"."}
+{"sentence": "Darius, Kyle, Alice, Carla", "output": "The concatenation of the last letters of the words \"Darius, Kyle, Alice, Carla\" is \"esae\"."}
+{"sentence": "Warren, Miguel, Kenneth, Ethan", "output": "The concatenation of the last letters of the names \"Warren, Miguel, Kenneth, Ethan\" is \"nlet\"."}
+{"sentence": "Steven, Richard, Jeffrey, Lindsey", "output": "The concatenation of the last letters of the words \"Steven, Richard, Jeffrey, Lindsey\" is \"nrdy\"."}
+{"sentence": "Kendra, Devin, Robert, Paul", "output": "The concatenation of the last letters of the words \"Kendra, Devin, Robert, Paul\" is \"arul\"."}
+{"sentence": "Kelly, Christopher, Makayla, Lauren", "output": "The concatenation of the last letters of the words \"Kelly, Christopher, Makayla, Lauren\" is \"yrna\"."}
+{"sentence": "Christopher, Cynthia, Lauren, Terrence", "output": "The concatenation of the last letters of the words \"Christopher, Cynthia, Lauren, Terrence\" is \"rany\"."}
+{"sentence": "Susan, Hayley, Steven, Lindsey", "output": "The concatenation of the last letters of the words \"Susan, Hayley, Steven, Lindsey\" is \"nely\"."}
+{"sentence": "Zoe, Zachary, Kelly, Alice", "output": "\"eyya\""}
+{"sentence": "Brandy, Nichole, Jared, Richard", "output": "\"eyrd\""}
+{"sentence": "Christina, Briana, Andrew, Jessica", "output": "The concatenation of the last letters of the words \"Christina, Briana, Andrew, Jessica\" is \"aaaa\"."}
+{"sentence": "Michael, Keith, Michelle, Scott", "output": "The concatenation of the last letters of the words \"Michael, Keith, Michelle, Scott\" is \"lelt\"."}
+{"sentence": "Mary, Nicholas, Denise, Elizabeth", "output": "The concatenation of the last letters of the words \"Mary, Nicholas, Denise, Elizabeth\" is \"hsae\"."}
+{"sentence": "Barry, Frederick, Peter, Deborah", "output": "\"yrer\""}
+{"sentence": "Andrew, Charles, Brian, Steven", "output": "The concatenation of the last letters of the words \"Andrew, Charles, Brian, Steven\" is \"wsan\"."}
+{"sentence": "Debbie, Ann, Elizabeth, Audrey", "output": "The concatenation of the last letters of the words \"Debbie, Ann, Elizabeth, Audrey\" is \"eydt\"."}
+{"sentence": "Danielle, Kenneth, Marie, Katherine", "output": "The concatenation of the last letters of the words \"Danielle, Kenneth, Marie, Katherine\" is \"eyea\"."}
+{"sentence": "Katherine, Joshua, Abigail, Donald", "output": "\"eaad\""}
+{"sentence": "Cynthia, Ryan, Brittany, Eric", "output": "The concatenation of the last letters of the words \"Cynthia, Ryan, Brittany, Eric\" is \"anet\"."}
+{"sentence": "Daniel, Eddie, Amy, Katie", "output": "The concatenation of the last letters of the words \"Daniel, Eddie, Amy, Katie\" is \"elye\"."}
+{"sentence": "Alexandra, Aaron, Michael, Christine", "output": "The concatenation of the last letters of the words \"Alexandra, Aaron, Michael, Christine\" is \"arle\"."}
+{"sentence": "Cheyenne, David, Philip, Natalie", "output": "The concatenation of the last letters of the words \"Cheyenne, David, Philip, Natalie\" is \"eylp\"."}
+{"sentence": "Tara, Megan, Thomas, Jonathan", "output": "The concatenation of the last letters of the words \"Tara, Megan, Thomas, Jonathan\" is \"anhs\"."}
+{"sentence": "Caroline, Mike, Gloria, Lori", "output": "The concatenation of the last letters of the words \"Caroline, Mike, Gloria, Lori\" is \"eeari\"."}
+{"sentence": "Casey, Brent, Richard, Virginia", "output": "The concatenation of the last letters of the words \"Casey, Brent, Richard, Virginia\" is \"ytad\"."}
+{"sentence": "Ricky, Dustin, Randall, Ricky", "output": "The concatenation of the last letters of the words \"Ricky, Dustin, Randall, Ricky\" is \"ynld\"."}
+{"sentence": "Michael, Kara, Mark, Lisa", "output": "The concatenation of the last letters of the words \"Michael, Kara, Mark, Lisa\" is \"lara\"."}
+{"sentence": "Heather, Derrick, Patricia, Stacey", "output": "The concatenation of the last letters of the words \"Heather, Derrick, Patricia, Stacey\" is \"rtry\"."}
+{"sentence": "Ashley, Richard, Daniel, Whitney", "output": "\"eyln\""}
+{"sentence": "Pamela, Paula, Austin, Isabella", "output": "The concatenation of the last letters of the words \"Pamela, Paula, Austin, Isabella\" is \"alna\"."}
+{"sentence": "Ronnie, Lisa, Mary, Kelly", "output": "The concatenation of the last letters of the words \"Ronnie, Lisa, Mary, Kelly\" is \"eaky\"."}
+{"sentence": "Marcus, Susan, Steven, Alexis", "output": "The concatenation of the last letters of the words \"Marcus, Susan, Steven, Alexis\" is \"ssns\"."}
+{"sentence": "Brian, Eileen, James, Fernando", "output": "The concatenation of the last letters of the words \"Brian, Eileen, James, Fernando\" is \"nnes\"."}
+{"sentence": "Michael, Terri, Hunter, Anna", "output": "The concatenation of the last letters of the words \"Michael, Terri, Hunter, Anna\" is \"lrya\"."}
+{"sentence": "Christopher, Stephanie, Brett, Blake", "output": "\"ereke\""}
+{"sentence": "Stephanie, Abigail, Candice, Lindsey", "output": "The concatenation of the last letters of the words \"Stephanie, Abigail, Candice, Lindsey\" is \"eley\"."}
+{"sentence": "Charles, Jared, Robert, Annette", "output": "The concatenation of the last letters of the words \"Charles, Jared, Robert, Annette\" is \"eset\"."}
+{"sentence": "Erica, Carolyn, Michael, Robert", "output": "The concatenation of the last letters of the words \"Erica, Carolyn, Michael, Robert\" is \"anrl\"."}
+{"sentence": "Cynthia, Kara, Kevin, Taylor", "output": "The concatenation of the last letters of the words \"Cynthia, Kara, Kevin, Taylor\" is \"ahnr\"."}
+{"sentence": "Stacey, Kimberly, Ryan, Wesley", "output": "\"eyan\""}
+{"sentence": "Douglas, Kara, Stephanie, Gloria", "output": "\"asaa\""}
+{"sentence": "Cheryl, Laurie, Thomas, Chad", "output": "The concatenation of the last letters of the words \"Cheryl, Laurie, Thomas, Chad\" is \"erds\"."}
+{"sentence": "Russell, Marie, William, James", "output": "\"elms\""}
+{"sentence": "Maria, Jerry, Cindy, Stephanie", "output": "The concatenation of the last letters of the words \"Maria, Jerry, Cindy, Stephanie\" is \"ayiy\"."}
+{"sentence": "Sarah, Joshua, Jonathan, Whitney", "output": "The concatenation of the last letters of the words \"Sarah, Joshua, Jonathan, Whitney\" is \"hawn\"."}
+{"sentence": "Jennifer, Vincent, Michael, Alyssa", "output": "The concatenation of the last letters of the words \"Jennifer, Vincent, Michael, Alyssa\" is \"rnta\"."}
+{"sentence": "Patricia, Shari, Michael, Linda", "output": "The concatenation of the last letters of the words \"Patricia, Shari, Michael, Linda\" is \"aiad\"."}
+{"sentence": "Tami, Janet, Anna, Tammy", "output": "\"iyaa\""}
+{"sentence": "Jesse, Michelle, Audrey, Abigail", "output": "The concatenation of the last letters of the words \"Jesse, Michelle, Audrey, Abigail\" is \"eeya\"."}
+{"sentence": "Kayla, Melody, Stacy, Michael", "output": "The concatenation of the last letters of the words \"Kayla, Melody, Stacy, Michael\" is \"ayly\"."}
+{"sentence": "Kimberly, Melissa, Debra, Patrick", "output": "The concatenation of the last letters of the words \"Kimberly, Melissa, Debra, Patrick\" is \"yai\"."}
+{"sentence": "Clinton, Stacy, Jason, Lauren", "output": "The concatenation of the last letters of the words \"Clinton, Stacy, Jason, Lauren\" is \"nnya\"."}
+{"sentence": "Justin, Kari, Joshua, Tyler", "output": "The concatenation of the last letters of the words \"Justin, Kari, Joshua, Tyler\" is \"nait\"."}
+{"sentence": "Donna, Michelle, Brian, Brianna", "output": "The concatenation of the last letters of \"Donna, Michelle, Brian, Brianna\" is \"aean\"."}
+{"sentence": "Tiffany, Brian, Robert, Brandon", "output": "The concatenation of the last letters of the words \"Tiffany, Brian, Robert, Brandon\" is \"ynrn\"."}
+{"sentence": "Barbara, Stephanie, Ryan, Jesse", "output": "The concatenation of the last letters of the words \"Barbara, Stephanie, Ryan, Jesse\" is \"aean\"."}
+{"sentence": "Patricia, Amber, Chad, Lisa", "output": "The concatenation of the last letters of the words \"Patricia, Amber, Chad, Lisa\" is \"aria\"."}
+{"sentence": "Jason, Brandon, Devin, Catherine", "output": "The concatenation of the last letters of the words \"Jason, Brandon, Devin, Catherine\" is \"nndn\"."}
+{"sentence": "William, Jacob, Steven, Curtis", "output": "The concatenation of the last letters of the words \"William, Jacob, Steven, Curtis\" is \"mbs\"."}
+{"sentence": "Jessica, Jack, Justin, Lauren", "output": "The concatenation of the last letters of the words \"Jessica, Jack, Justin, Lauren\" is \"anin\"."}
+{"sentence": "Sarah, Ashlee, Rhonda, Bryan", "output": "\"eean\""}
+{"sentence": "Jeffrey, David, Lee, Jean", "output": "The concatenation of the last letters of the words \"Jeffrey, David, Lee, Jean\" is \"ydn\"."}
+{"sentence": "Brendan, Michelle, Thomas, Matthew", "output": "The concatenation of the last letters of the words \"Brendan, Michelle, Thomas, Matthew\" is \"enstw\"."}
+{"sentence": "Michael, Amanda, Cheryl, Brandon", "output": "The concatenation of the last letters of the words \"Michael, Amanda, Cheryl, Brandon\" is \"ldrl\"."}
+{"sentence": "Rachel, Timothy, Michael, Lauren", "output": "The concatenation of the last letters of the words \"Rachel, Timothy, Michael, Lauren\" is \"lmyr\"."}
+{"sentence": "Alison, Patrick, Daniel, Albert", "output": "The concatenation of the last letters of the words \"Alison, Patrick, Daniel, Albert\" is \"nktt\"."}
+{"sentence": "Anthony, Joseph, Joanna, Allison", "output": "\"ayna\""}
+{"sentence": "Amanda, Lisa, Sandra, Paula", "output": "The concatenation of the last letters of the words \"Amanda, Lisa, Sandra, Paula\" is \"aasa\"."}
+{"sentence": "Jeremy, Roberta, Christopher, Glen", "output": "\"ntnh\""}
+{"sentence": "Ashley, Carlos, Beth, Kara", "output": "The concatenation of the last letters of the words \"Ashley, Carlos, Beth, Kara\" is \"eyss\"."}
+{"sentence": "Steven, Mark, Carrie, Brett", "output": "The concatenation of the last letters of the words \"Steven, Mark, Carrie, Brett\" is \"nket\"."}
+{"sentence": "Roberto, Jeffery, Robert, Karen", "output": "The concatenation of the last letters of the words \"Roberto, Jeffery, Robert, Karen\" is \"oynn\"."}
+{"sentence": "Travis, Andres, Erica, Angie", "output": "The concatenation of the last letters of the words \"Travis, Andres, Erica, Angie\" is \"ssae\"."}
+{"sentence": "Jared, Carlos, John, Sara", "output": "The concatenation of the last letters of the words \"Jared, Carlos, John, Sara\" is \"dsna\"."}
+{"sentence": "Cindy, Kevin, Vincent, Ellen", "output": "The concatenation of the last letters of the words \"Cindy, Kevin, Vincent, Ellen\" is \"ynnt\"."}
+{"sentence": "Sergio, Chad, Ashley, John", "output": "The concatenation of the last letters of the words \"Sergio, Chad, Ashley, John\" is \"odyn\"."}
+{"sentence": "Cheryl, Brian, Susan, Angela", "output": "The concatenation of the last letters of the words \"Cheryl, Brian, Susan, Angela\" is \"rnna\"."}
+{"sentence": "Kelly, Brian, Julia, Brian", "output": "The concatenation of the last letters of the words \"Kelly, Brian, Julia, Brian\" is \"ynia\"."}
+{"sentence": "Sharon, Matthew, Diana, Patrick", "output": "The concatenation of the last letters of the words \"Sharon, Matthew, Diana, Patrick\" is \"nwhy\"."}
+{"sentence": "Duane, Jesus, Krystal, Madison", "output": "The concatenation of the last letters of the words \"Duane, Jesus, Krystal, Madison\" is \"enad\"."}
+{"sentence": "Peter, Billy, Jerry, Carlos", "output": "The concatenation of the last letters of the names \"Peter, Billy, Jerry, Carlos\" is \"ryryryos\"."}
+{"sentence": "Nathan, Jeffrey, Kathy, Beth", "output": "The concatenation of the last letters of the words \"Nathan, Jeffrey, Kathy, Beth\" is \"nyhyh\"."}
+{"sentence": "Darrell, Robert, Kimberly, Autumn", "output": "The concatenation of the last letters of \"Darrell, Robert, Kimberly, Autumn\" is \"lryn\"."}
+{"sentence": "Samuel, Steven, Erica, Brian", "output": "The concatenation of the last letters of the words \"Samuel, Steven, Erica, Brian\" is \"lnar\"."}
+{"sentence": "Joshua, Lisa, Eileen, Michele", "output": "The concatenation of the last letters of the words \"Joshua, Lisa, Eileen, Michele\" is \"aeen\"."}
+{"sentence": "Andrew, Rhonda, Denise, Kerry", "output": "The concatenation of the last letters of the names \"Andrew, Rhonda, Denise, Kerry\" is \"wdse\"."}
+{"sentence": "Traci, Gail, Omar, Derrick", "output": "\"ilrk\""}
+{"sentence": "Richard, Eddie, Lauren, Kenneth", "output": "The concatenation of the last letters of the words \"Richard, Eddie, Lauren, Kenneth\" is \"deen\"."}
+{"sentence": "Ray, Nathan, Sarah, Nicholas", "output": "The concatenation of the last letters of the words \"Ray, Nathan, Sarah, Nicholas\" is \"ynhn\"."}
+{"sentence": "Monica, Lisa, Robert, Misty", "output": "The concatenation of the last letters of the words \"Monica, Lisa, Robert, Misty\" is \"aasy\"."}
+{"sentence": "Carl, Christine, Cynthia, Scott", "output": "The concatenation of the last letters of the words \"Carl, Christine, Cynthia, Scott\" is \"ltst\"."}
+{"sentence": "Tonya, Susan, Terri, Thomas", "output": "The concatenation of the last letters of the words \"Tonya, Susan, Terri, Thomas\" is \"ans\"."}
+{"sentence": "Victoria, Troy, Andrea, Ryan", "output": "\"ayrn\""}
+{"sentence": "Julie, Elizabeth, Andrea, Austin", "output": "The concatenation of the last letters of the words \"Julie, Elizabeth, Andrea, Austin\" is \"ehtn\"."}
+{"sentence": "Abigail, Kim, Lindsey, Susan", "output": "The concatenation of the last letters of the words \"Abigail, Kim, Lindsey, Susan\" is \"lnsn\"."}
+{"sentence": "Corey, Steven, Joseph, Blake", "output": "The concatenation of the last letters of the words \"Corey, Steven, Joseph, Blake\" is \"ynhe\"."}
+{"sentence": "Matthew, Heather, Victoria, Amber", "output": "The concatenation of the last letters of the words \"Matthew, Heather, Victoria, Amber\" is \"whra\"."}
+{"sentence": "Kelly, William, Heather, Tanya", "output": "The concatenation of the last letters of the words \"Kelly, William, Heather, Tanya\" is \"lyrn\"."}
+{"sentence": "Erik, Michelle, Loretta, Sara", "output": "The concatenation of the last letters of the words \"Erik, Michelle, Loretta, Sara\" is \"etra\"."}
+{"sentence": "Christy, Angela, Rebecca, Heather", "output": "The concatenation of the last letters of the words \"Christy, Angela, Rebecca, Heather\" is \"yara\"."}
+{"sentence": "Ashley, David, Kenneth, Suzanne", "output": "\"eydn\""}
+{"sentence": "Nicole, Melissa, Jeffery, Stephanie", "output": "The concatenation of the last letters of the words \"Nicole, Melissa, Jeffery, Stephanie\" is \"eaii\"."}
+{"sentence": "Angela, Cheryl, Allison, Christopher", "output": "The concatenation of the last letters of the words \"Angela, Cheryl, Allison, Christopher\" is \"arhr\"."}
+{"sentence": "Julia, Steven, Manuel, David", "output": "The concatenation of the last letters of the words \"Julia, Steven, Manuel, David\" is \"anld\"."}
+{"sentence": "Ashley, Robert, Megan, Darren", "output": "The concatenation of the last letters of the words \"Ashley, Robert, Megan, Darren\" is \"eynt\"."}
+{"sentence": "Deborah, Cheryl, Patricia, Peggy", "output": "\"ryryrygy\""}
+{"sentence": "Ronald, Bradley, David, Brandon", "output": "The concatenation of the last letters of the words \"Ronald, Bradley, David, Brandon\" is \"ldidn\"."}
+{"sentence": "Joshua, Angela, Fernando, Kimberly", "output": "\"agia\""}
+{"sentence": "Ronald, Mercedes, Kevin, Daniel", "output": "The concatenation of the last letters of the words \"Ronald, Mercedes, Kevin, Daniel\" is \"dsvl\"."}
+{"sentence": "Michael, Travis, Randy, Ruth", "output": "The concatenation of the last letters of the words \"Michael, Travis, Randy, Ruth\" is \"lsvh\"."}
+{"sentence": "Matthew, Emily, Annette, Jacqueline", "output": "\"yhne\""}
+{"sentence": "Kristen, Maria, Paula, Nicole", "output": "\"nnle\""}
+{"sentence": "Norman, Ryan, Philip, James", "output": "The concatenation of the last letters of the words \"Norman, Ryan, Philip, James\" is \"nraj\"."}
+{"sentence": "Jeremy, Cindy, Troy, Joshua", "output": "The concatenation of the last letters of the words \"Jeremy, Cindy, Troy, Joshua\" is \"ydya\"."}
+{"sentence": "Belinda, Joseph, Julie, James", "output": "The concatenation of the last letters of the words \"Belinda, Joseph, Julie, James\" is \"adse\"."}
+{"sentence": "Anthony, Laura, Timothy, Curtis", "output": "\"yrts\""}
+{"sentence": "Susan, Denise, Justin, Joseph", "output": "The concatenation of the last letters of the words \"Susan, Denise, Justin, Joseph\" is \"nein\"."}
+{"sentence": "Susan, Jodi, Timothy, Rachel", "output": "The concatenation of the last letters of the words \"Susan, Jodi, Timothy, Rachel\" is \"nidy\"."}
+{"sentence": "Randy, Rebecca, Laura, Michael", "output": "The concatenation of the last letters of the words \"Randy, Rebecca, Laura, Michael\" is \"yara\"."}
+{"sentence": "David, Stacey, Thomas, Robert", "output": "The concatenation of the last letters of the words \"David, Stacey, Thomas, Robert\" is \"dtts\"."}
+{"sentence": "Michelle, Isabel, Caitlin, Kimberly", "output": "The concatenation of the last letters of the words \"Michelle, Isabel, Caitlin, Kimberly\" is \"enin\"."}
+{"sentence": "Hayden, Katherine, Sheila, Joshua", "output": "The concatenation of the last letters of the words \"Hayden, Katherine, Sheila, Joshua\" is \"nena\"."}
+{"sentence": "Renee, Christopher, Robert, Brandon", "output": "The concatenation of the last letters of the words \"Renee, Christopher, Robert, Brandon\" is \"eorn\"."}
+{"sentence": "Timothy, Mary, Jose, Charles", "output": "The concatenation of the last letters of the words \"Timothy, Mary, Jose, Charles\" is \"yrys\"."}
+{"sentence": "Diana, Sarah, Mary, John", "output": "The concatenation of the last letters of the words \"Diana, Sarah, Mary, John\" is \"anhn\"."}
+{"sentence": "Elizabeth, Matthew, Tracy, Lori", "output": "\"htyr\""}
+{"sentence": "Pamela, Donna, Kimberly, Karen", "output": "\"ana\""}
+{"sentence": "Kathleen, David, David, Danny", "output": "\"nnny\""}
+{"sentence": "Sandra, Cassandra, Jessica, Virginia", "output": "The concatenation of the last letters of the words \"Sandra, Cassandra, Jessica, Virginia\" is \"arva\"."}
+{"sentence": "Katie, David, Brian, Sherry", "output": "The concatenation of the last letters of the words \"Katie, David, Brian, Sherry\" is \"eidy\"."}
+{"sentence": "Diane, Robert, Diane, Jesse", "output": "The concatenation of the last letters of the words \"Diane, Robert, Diane, Jesse\" is \"enre\"."}
+{"sentence": "Timothy, Rachel, Alyssa, John", "output": "The concatenation of the last letters of the words \"Timothy, Rachel, Alyssa, John\" is \"hyan\"."}
+{"sentence": "Lauren, Priscilla, Tammy, Amber", "output": "The concatenation of the last letters of the words \"Lauren, Priscilla, Tammy, Amber\" is \"nayr\"."}
+{"sentence": "Nathan, Rickey, Melissa, Mary", "output": "The concatenation of the last letters of the words \"Nathan, Rickey, Melissa, Mary\" is \"nryy\"."}
+{"sentence": "Nina, Austin, Russell, Jacob", "output": "The concatenation of the last letters of the words \"Nina, Austin, Russell, Jacob\" is \"anlj\"."}
+{"sentence": "Shannon, Ashley, Brenda, Mary", "output": "The concatenation of the last letters of the words \"Shannon, Ashley, Brenda, Mary\" is \"nery\"."}
+{"sentence": "Megan, Danielle, Gregory, Michelle", "output": "The concatenation of the last letters of the words \"Megan, Danielle, Gregory, Michelle\" is \"nely\"."}
+{"sentence": "James, Denise, Zachary, Scott", "output": "The concatenation of the last letters of the words \"James, Denise, Zachary, Scott\" is \"esyt\"."}
+{"sentence": "Barry, Andrew, Angie, Jacob", "output": "The concatenation of the last letters of the words \"Barry, Andrew, Angie, Jacob\" is \"ywwb\"."}
+{"sentence": "Steven, Nicole, Kristine, Joanna", "output": "The concatenation of the last letters of the words \"Steven, Nicole, Kristine, Joanna\" is \"enae\"."}
+{"sentence": "Jeremy, Rebecca, Jennifer, Jacob", "output": "The concatenation of the last letters of the words \"Jeremy, Rebecca, Jennifer, Jacob\" is \"yara\"."}
+{"sentence": "Eric, David, Alan, Mark", "output": "The concatenation of the last letters of the words \"Eric, David, Alan, Mark\" is \"cndn\"."}
+{"sentence": "Matthew, Jeffrey, Kayla, Brenda", "output": "The concatenation of the last letters of the words \"Matthew, Jeffrey, Kayla, Brenda\" is \"whra\"."}
+{"sentence": "Anita, Brian, Regina, Edwin", "output": "The concatenation of the last letters of the words \"Anita, Brian, Regina, Edwin\" is \"arwn\"."}
+{"sentence": "Hannah, Denise, Austin, Mathew", "output": "The concatenation of the last letters of the words \"Hannah, Denise, Austin, Mathew\" is \"ewtn\"."}
+{"sentence": "Colleen, Cassie, Brittany, Tyler", "output": "The concatenation of the last letters of the words \"Colleen, Cassie, Brittany, Tyler\" is \"eneyyt\"."}
+{"sentence": "Joshua, Luis, Sarah, Kelsey", "output": "The concatenation of the last letters of the words \"Joshua, Luis, Sarah, Kelsey\" is \"asry\"."}
+{"sentence": "Brittany, Courtney, Samantha, James", "output": "The concatenation of the last letters of the words \"Brittany, Courtney, Samantha, James\" is \"ynae\"."}
+{"sentence": "Jessica, Amy, Debbie, Seth", "output": "The concatenation of the last letters of the words \"Jessica, Amy, Debbie, Seth\" is \"ayet\"."}
+{"sentence": "Dale, Jeanette, Christopher, Nicole", "output": "The concatenation of the last letters of the words \"Dale, Jeanette, Christopher, Nicole\" is \"elre\"."}
+{"sentence": "Colleen, Sydney, Felicia, Joshua", "output": "The concatenation of the last letters of the words \"Colleen, Sydney, Felicia, Joshua\" is \"enyh\"."}
+{"sentence": "Susan, Teresa, Samantha, Steven", "output": "The concatenation of the last letters of the words \"Susan, Teresa, Samantha, Steven\" is \"nrat\"."}
+{"sentence": "James, Kathryn, Malik, Ashley", "output": "The concatenation of the last letters of the words \"James, Kathryn, Malik, Ashley\" is \"syha\"."}
+{"sentence": "Edwin, Nicholas, Hayley, Amanda", "output": "The concatenation of the last letters of the words \"Edwin, Nicholas, Hayley, Amanda\" is \"nsha\"."}
+{"sentence": "Aaron, Scott, Victor, Peter", "output": "The concatenation of the last letters of the words \"Aaron, Scott, Victor, Peter\" is \"ntrr\"."}
+{"sentence": "Lydia, Brian, Sarah, Susan", "output": "The concatenation of the last letters of the words \"Lydia, Brian, Sarah, Susan\" is \"anrn\"."}
+{"sentence": "Tina, Emily, Christina, Adam", "output": "The concatenation of the last letters of the words \"Tina, Emily, Christina, Adam\" is \"ayaa\"."}
+{"sentence": "Edward, Sabrina, Laura, Amanda", "output": "The concatenation of the last letters of the words \"Edward, Sabrina, Laura, Amanda\" is \"drar\"."}
+{"sentence": "Lindsey, Lauren, Deborah, Joseph", "output": "The concatenation of the last letters of the words \"Lindsey, Lauren, Deborah, Joseph\" is \"eyhn\"."}
+{"sentence": "Joseph, Kimberly, Michelle, Jennifer", "output": "\"ernr\""}
+{"sentence": "Lisa, Darryl, Katie, Kimberly", "output": "The concatenation of the last letters of the words \"Lisa, Darryl, Katie, Kimberly\" is \"aeey\"."}
+{"sentence": "Susan, Charles, Henry, Jeffrey", "output": "\"nryf\""}
+{"sentence": "Kimberly, Nathaniel, Dean, Chad", "output": "\"lyld\""}
+{"sentence": "Mark, Crystal, Amanda, John", "output": "The concatenation of the last letters of the words \"Mark, Crystal, Amanda, John\" is \"lndn\"."}
+{"sentence": "Monique, Renee, John, Tyler", "output": "The concatenation of the last letters of \"Monique, Renee, John, Tyler\" is \"eejn\"."}
+{"sentence": "Tamara, Raymond, Andrew, Gary", "output": "The concatenation of the last letters of the words \"Tamara, Raymond, Andrew, Gary\" is \"arwy\"."}
+{"sentence": "Amanda, Roberto, Amanda, Paul", "output": "The concatenation of the last letters of the words \"Amanda, Roberto, Amanda, Paul\" is \"aota\"."}
+{"sentence": "Tyler, Jason, Brianna, Laura", "output": "\"rnal\""}
+{"sentence": "Rebecca, Richard, Richard, Andrea", "output": "The concatenation of the last letters of the words \"Rebecca, Richard, Richard, Andrea\" is \"aard\"."}
+{"sentence": "Courtney, Michael, Vicki, Sherry", "output": "\"eyry\""}
+{"sentence": "Jessica, Michael, Julie, Caleb", "output": "The concatenation of the last letters of the words \"Jessica, Michael, Julie, Caleb\" is \"alel\"."}
+{"sentence": "Stephanie, Dawn, Nathan, Lynn", "output": "The concatenation of the last letters of the words \"Stephanie, Dawn, Nathan, Lynn\" is \"eann\"."}
+{"sentence": "Jared, Austin, Lisa, Michael", "output": "The concatenation of the last letters of the words \"Jared, Austin, Lisa, Michael\" is \"dnal\"."}
+{"sentence": "Thomas, Kim, Ralph, Ruben", "output": "The concatenation of the last letters of the words \"Thomas, Kim, Ralph, Ruben\" is \"snfn\"."}
+{"sentence": "Patty, Emily, Robert, Brianna", "output": "\"ynar\""}
+{"sentence": "Donna, Kathryn, Jamie, Cory", "output": "The concatenation of the last letters of the words \"Donna, Kathryn, Jamie, Cory\" is \"anay\"."}
+{"sentence": "Melissa, Tiffany, Blake, Jasmine", "output": "The concatenation of the last letters of the words \"Melissa, Tiffany, Blake, Jasmine\" is \"ayee\"."}
+{"sentence": "Kimberly, Ryan, Devin, Jimmy", "output": "\"ynjn\""}
+{"sentence": "Matthew, Leah, Alicia, Grace", "output": "The concatenation of the last letters of the words \"Matthew, Leah, Alicia, Grace\" is \"whce\"."}
+{"sentence": "Jennifer, James, John, Patricia", "output": "The concatenation of the last letters of the words \"Jennifer, James, John, Patricia\" is \"ersa\"."}
+{"sentence": "Joshua, Krista, Darlene, Jared", "output": "The concatenation of the last letters of the words \"Joshua, Krista, Darlene, Jared\" is \"aate\"."}
+{"sentence": "Michael, Jonathan, Terrance, Barry", "output": "The concatenation of the last letters of the words \"Michael, Jonathan, Terrance, Barry\" is \"lnty\"."}
+{"sentence": "Anthony, Bethany, Matthew, Michael", "output": "The concatenation of the last letters of the words \"Anthony, Bethany, Matthew, Michael\" is \"yhew\"."}
+{"sentence": "Brandon, Carolyn, David, Ralph", "output": "\"nnld\""}
+{"sentence": "John, Brianna, Miranda, Mary", "output": "The concatenation of the last letters of the words \"John, Brianna, Miranda, Mary\" is \"nayy.\""}
+{"sentence": "Erika, Melissa, Eric, Sabrina", "output": "The concatenation of the last letters of the words \"Erika, Melissa, Eric, Sabrina\" is \"aiic\"."}
+{"sentence": "Isaac, Brandon, John, Carol", "output": "The concatenation of the last letters of the words \"Isaac, Brandon, John, Carol\" is \"cdnn\"."}
+{"sentence": "Mary, Paul, Samuel, Roberto", "output": "The concatenation of the last letters of the words \"Mary, Paul, Samuel, Roberto\" is \"ylul\"."}
+{"sentence": "Crystal, Robert, Jonathon, Shelby", "output": "\"alby\""}
+{"sentence": "Mark, Frank, Jorge, Monica", "output": "The concatenation of the last letters of the words \"Mark, Frank, Jorge, Monica\" is \"knca\"."}
+{"sentence": "Teresa, William, Christopher, Jacqueline", "output": "The concatenation of the last letters of the words \"Teresa, William, Christopher, Jacqueline\" is \"amra\"."}
+{"sentence": "Cheryl, Anne, Mario, Mindy", "output": "The concatenation of the last letters of the words \"Cheryl, Anne, Mario, Mindy\" is \"eyoa\"."}
+{"sentence": "William, Megan, Jason, Gregory", "output": "The concatenation of the last letters of the words \"William, Megan, Jason, Gregory\" is \"nngy\"."}
+{"sentence": "Matthew, Laurie, Diana, Daniel", "output": "The concatenation of the last letters of the words \"Matthew, Laurie, Diana, Daniel\" is \"whal\"."}
+{"sentence": "Luke, Pamela, Debra, Matthew", "output": "The concatenation of the last letters of the words \"Luke, Pamela, Debra, Matthew\" is \"emth\"."}
+{"sentence": "Daniel, Mitchell, Jonathan, Stacie", "output": "The concatenation of the last letters of the words \"Daniel, Mitchell, Jonathan, Stacie\" is \"llnt\"."}
+{"sentence": "Daniel, Chris, Zachary, Zachary", "output": "The concatenation of the last letters of the words \"Daniel, Chris, Zachary, Zachary\" is \"lshy\"."}
+{"sentence": "Paula, Derrick, Richard, Billy", "output": "The concatenation of the last letters of the words \"Paula, Derrick, Richard, Billy\" is \"alry\"."}
+{"sentence": "Lindsey, Steven, Katelyn, Stacy", "output": "\"eyyn\""}
+{"sentence": "Christopher, Nancy, Vincent, Luke", "output": "\"erke\""}
+{"sentence": "Debbie, Kyle, William, Danielle", "output": "The concatenation of the last letters of the words \"Debbie, Kyle, William, Danielle\" is \"eely\"."}
+{"sentence": "Kimberly, Taylor, Shawn, Rebecca", "output": "\"yrwn\""}
+{"sentence": "Philip, Stacey, Donna, Aaron", "output": "The concatenation of the last letters of the words \"Philip, Stacey, Donna, Aaron\" is \"eeya\"."}
+{"sentence": "Sherry, Michelle, Linda, Tim", "output": "The concatenation of the last letters of the words \"Sherry, Michelle, Linda, Tim\" is \"eymd\"."}
+{"sentence": "Melanie, Leah, James, Michelle", "output": "The concatenation of the last letters of the words \"Melanie, Leah, James, Michelle\" is \"eams\"."}
+{"sentence": "Jeremy, Thomas, Tammy, Carla", "output": "The concatenation of the last letters of the words \"Jeremy, Thomas, Tammy, Carla\" is \"syay\"."}
+{"sentence": "Mario, Gregory, Sara, Evan", "output": "The concatenation of the last letters of the words \"Mario, Gregory, Sara, Evan\" is \"oyan\"."}
+{"sentence": "Gregory, Paul, Steven, Alyssa", "output": "The concatenation of the last letters of the words \"Gregory, Paul, Steven, Alyssa\" is \"ylan\"."}
+{"sentence": "Michael, David, Joseph, Emily", "output": "The concatenation of the last letters of the words \"Michael, David, Joseph, Emily\" is \"ldse\"."}
+{"sentence": "Kyle, Ryan, Brandy, Jacqueline", "output": "\"eneydyne\""}
+{"sentence": "Karina, Michael, David, Connor", "output": "The concatenation of the last letters of the names \"Karina, Michael, David, Connor\" is \"anrd\"."}
+{"sentence": "Elizabeth, Sandra, John, Patrick", "output": "The concatenation of the last letters of the words \"Elizabeth, Sandra, John, Patrick\" is \"hdnn\"."}
+{"sentence": "Sean, Anne, Shelby, Francis", "output": "The concatenation of the last letters of the words \"Sean, Anne, Shelby, Francis\" is \"nely\"."}
+{"sentence": "Desiree, Ashley, Katherine, John", "output": "The concatenation of the last letters of \"Desiree, Ashley, Katherine, John\" is \"eyne\"."}
+{"sentence": "Chad, Jonathan, Scott, Michael", "output": "The concatenation of the last letters of the words \"Chad, Jonathan, Scott, Michael\" is \"dntl\"."}
+{"sentence": "Philip, Angela, Jerry, Daniel", "output": "The concatenation of the last letters of the words \"Philip, Angela, Jerry, Daniel\" is \"lara\"."}
+{"sentence": "Michelle, Shannon, Jerry, Larry", "output": "The concatenation of the last letters of the words \"Michelle, Shannon, Jerry, Larry\" is \"enry\"."}
+{"sentence": "Oscar, Tanya, Eric, Belinda", "output": "\"ryca\""}
+{"sentence": "Jeffrey, Linda, Angela, Eric", "output": "The concatenation of the last letters of the words \"Jeffrey, Linda, Angela, Eric\" is \"ayca\"."}
+{"sentence": "Leah, Jerry, Nicole, William", "output": "The concatenation of the last letters of the words \"Leah, Jerry, Nicole, William\" is \"helym\"."}
+{"sentence": "Devin, Sarah, Lisa, Kristin", "output": "The concatenation of the last letters of the words \"Devin, Sarah, Lisa, Kristin\" is \"nrah\"."}
+{"sentence": "Brent, Gary, Jonathan, Patricia", "output": "The concatenation of the last letters of the words \"Brent, Gary, Jonathan, Patricia\" is \"trya\"."}
+{"sentence": "Cynthia, Amanda, Edward, Veronica", "output": "\"raon\""}
+{"sentence": "Nicholas, Thomas, Ryan, Karl", "output": "The concatenation of the last letters of \"Nicholas, Thomas, Ryan, Karl\" is \"slrn\"."}
+{"sentence": "Albert, Joshua, Daniel, Linda", "output": "\"tral\""}
+{"sentence": "Charlene, Raven, William, Meghan", "output": "\"enrn\""}
+{"sentence": "Michele, Jay, Mark, Kenneth", "output": "The concatenation of the last letters of the words \"Michele, Jay, Mark, Kenneth\" is \"eeht\"."}
+{"sentence": "Catherine, Nicholas, Elizabeth, Richard", "output": "The concatenation of the last letters of the words \"Catherine, Nicholas, Elizabeth, Richard\" is \"esrt\"."}
+{"sentence": "Ryan, Jeffrey, Philip, Andrea", "output": "The concatenation of the last letters of the words \"Ryan, Jeffrey, Philip, Andrea\" is \"nyia\"."}
+{"sentence": "Brendan, Jeffrey, Jimmy, Teresa", "output": "\"nyya\""}
+{"sentence": "Sara, Ryan, Kevin, Lisa", "output": "The concatenation of the last letters of the words \"Sara, Ryan, Kevin, Lisa\" is \"anin\"."}
+{"sentence": "Andrew, Wanda, William, Emily", "output": "The concatenation of the last letters of the words \"Andrew, Wanda, William, Emily\" is \"dyml\"."}
+{"sentence": "Francisco, Nicholas, Daniel, Angela", "output": "The concatenation of the last letters of the words \"Francisco, Nicholas, Daniel, Angela\" is \"oels\"."}
+{"sentence": "Alisha, Allison, Kristen, Richard", "output": "The concatenation of the last letters of the words \"Alisha, Allison, Kristen, Richard\" is \"anrn\"."}
+{"sentence": "Courtney, Jonathan, Joseph, Sheila", "output": "The concatenation of the last letters of the words \"Courtney, Jonathan, Joseph, Sheila\" is \"eyhs\"."}
+{"sentence": "Julia, Daniel, Tyler, Kelli", "output": "The concatenation of the last letters of the words \"Julia, Daniel, Tyler, Kelli\" is \"aiel\"."}
+{"sentence": "Christian, Robert, William, Traci", "output": "The concatenation of the last letters of the words \"Christian, Robert, William, Traci\" is \"nrti\"."}
+{"sentence": "Michael, Charles, Ricky, Elizabeth", "output": "\"lyet\""}
+{"sentence": "Jessica, Christine, Aaron, April", "output": "The concatenation of the last letters of the words \"Jessica, Christine, Aaron, April\" is \"aeil\"."}
+{"sentence": "Jorge, Anita, William, Bradley", "output": "\"eeay\""}
+{"sentence": "Lori, Rachel, Stacey, Dean", "output": "The concatenation of the last letters of the words \"Lori, Rachel, Stacey, Dean\" is \"ilne\"."}
+{"sentence": "Catherine, Jill, Patrick, Rebecca", "output": "The concatenation of the last letters of the words \"Catherine, Jill, Patrick, Rebecca\" is \"enkr\"."}
+{"sentence": "Noah, Jeffrey, Lindsay, Beverly", "output": "\"hyry\""}
+{"sentence": "Alisha, Benjamin, Matthew, Summer", "output": "\"ahmr\""}
+{"sentence": "Brandy, Pamela, Jeff, Kara", "output": "The concatenation of the last letters of the words \"Brandy, Pamela, Jeff, Kara\" is \"yyfk\"."}
+{"sentence": "Erica, Reginald, Stephanie, Jason", "output": "The concatenation of the last letters of the words \"Erica, Reginald, Stephanie, Jason\" is \"aedsn\"."}
+{"sentence": "Michael, Rebecca, Stephen, Nicholas", "output": "The concatenation of the last letters of the words \"Michael, Rebecca, Stephen, Nicholas\" is \"lans\"."}
+{"sentence": "Joshua, Amy, Larry, Nicole", "output": "The concatenation of the last letters of the words \"Joshua, Amy, Larry, Nicole\" is \"ayle\"."}
+{"sentence": "Raymond, Susan, James, Anthony", "output": "The concatenation of the last letters of the words \"Raymond, Susan, James, Anthony\" is \"ndya\"."}
+{"sentence": "Scott, Beth, Diana, Andrea", "output": "The concatenation of the last letters of the words \"Scott, Beth, Diana, Andrea\" is \"thna\"."}
+{"sentence": "Jeffrey, Sherry, Mary, Nicole", "output": "The concatenation of the last letters of the words \"Jeffrey, Sherry, Mary, Nicole\" is \"yryn\"."}
+{"sentence": "Louis, Matthew, Amber, Destiny", "output": "\"sy\""}
+{"sentence": "Carl, Jonathan, Wendy, Christopher", "output": "The concatenation of the last letters of the words \"Carl, Jonathan, Wendy, Christopher\" is \"ldwnr\"."}
+{"sentence": "Janet, Paul, Valerie, Travis", "output": "The concatenation of the last letters of the words \"Janet, Paul, Valerie, Travis\" is \"ltis\"."}
+{"sentence": "Tony, Lauren, Jackson, John", "output": "The concatenation of the last letters of the words \"Tony, Lauren, Jackson, John\" is \"ynon\"."}
+{"sentence": "Daniel, David, Melissa, Teresa", "output": "The concatenation of the last letters of the words \"Daniel, David, Melissa, Teresa\" is \"ldia\"."}
+{"sentence": "Patrick, Sabrina, Thomas, Destiny", "output": "The concatenation of the last letters of the words \"Patrick, Sabrina, Thomas, Destiny\" is \"kias\"."}
+{"sentence": "Timothy, Cynthia, Jason, Carly", "output": "The concatenation of the last letters of the words \"Timothy, Cynthia, Jason, Carly\" is \"ynny\"."}
+{"sentence": "William, Brittney, Debbie, Eric", "output": "The concatenation of the last letters of the words \"William, Brittney, Debbie, Eric\" is \"ynec\"."}
+{"sentence": "Jade, James, Destiny, Julia", "output": "The concatenation of the last letters of the words \"Jade, James, Destiny, Julia\" is \"esia\"."}
+{"sentence": "Hannah, Bruce, Jacob, Natalie", "output": "The concatenation of the last letters of the words \"Hannah, Bruce, Jacob, Natalie\" is \"eele\"."}
+{"sentence": "William, Kristy, Suzanne, Jason", "output": "\"ynne\""}
+{"sentence": "Travis, Tyler, Natasha, Benjamin", "output": "The concatenation of the last letters of the words \"Travis, Tyler, Natasha, Benjamin\" is \"syha\"."}
+{"sentence": "Patrick, Kaitlin, James, Kathy", "output": "The concatenation of the last letters of the words \"Patrick, Kaitlin, James, Kathy\" is \"nyes\"."}
+{"sentence": "Alyssa, David, Anna, Michael", "output": "The concatenation of the last letters of the words in \"Alyssa, David, Anna, Michael\" is \"adna\"."}
+{"sentence": "Jose, Megan, Jennifer, Nicholas", "output": "The concatenation of the last letters of the words \"Jose, Megan, Jennifer, Nicholas\" is \"esrs\"."}
+{"sentence": "Eric, Trevor, Rachel, Danielle", "output": "The concatenation of the last letters of the words \"Eric, Trevor, Rachel, Danielle\" is \"crle\"."}
+{"sentence": "Joanne, Rebecca, Amy, Angela", "output": "The concatenation of the last letters of the words \"Joanne, Rebecca, Amy, Angela\" is \"eaaa\"."}
+{"sentence": "Daniel, Christopher, Erin, Diane", "output": "\"lnne\""}
+{"sentence": "Samantha, Rachael, Kathy, Olivia", "output": "\"ahya\""}
+{"sentence": "Leslie, Denise, Cynthia, Sarah", "output": "The concatenation of the last letters of the words \"Leslie, Denise, Cynthia, Sarah\" is \"eyay\"."}
+{"sentence": "Gregory, Michelle, Brenda, James", "output": "The concatenation of the last letters of the words \"Gregory, Michelle, Brenda, James\" is \"eyae\"."}
+{"sentence": "Kimberly, Mark, Richard, Jacqueline", "output": "\"ymrd\""}
+{"sentence": "John, Crystal, Manuel, John", "output": "The concatenation of the last letters of the words \"John, Crystal, Manuel, John\" is \"nlaln\"."}
+{"sentence": "Billy, Matthew, Amanda, Christina", "output": "The concatenation of the last letters of the words \"Billy, Matthew, Amanda, Christina\" is \"ytad\"."}
+{"sentence": "Monica, Kenneth, Christine, Gregory", "output": "\"ayty\""}
+{"sentence": "John, Shawna, David, Joel", "output": "The concatenation of the last letters of the words \"John, Shawna, David, Joel\" is \"nadj\"."}
+{"sentence": "Michael, Veronica, Michael, Christopher", "output": "The concatenation of the last letters of the words in \"Michael, Veronica, Michael, Christopher\" is \"lalc\"."}
+{"sentence": "Megan, Heather, Kyle, Jason", "output": "The concatenation of the last letters of the words \"Megan, Heather, Kyle, Jason\" is \"nrls\"."}
+{"sentence": "Briana, Carlos, Kristi, Thomas", "output": "\"asit\""}
+{"sentence": "Chelsea, Gregory, Dillon, James", "output": "The concatenation of the last letters of the words \"Chelsea, Gregory, Dillon, James\" is \"ayns\"."}
+{"sentence": "Danny, Alex, Jeremy, Michael", "output": "The concatenation of the last letters of the words \"Danny, Alex, Jeremy, Michael\" is \"yxml\"."}
+{"sentence": "Lori, Raven, Shane, Bridget", "output": "The concatenation of the last letters of the words \"Lori, Raven, Shane, Bridget\" is \"ieet\"."}
+{"sentence": "Ronald, Jerry, Brian, Alyssa", "output": "The concatenation of the last letters of the words \"Ronald, Jerry, Brian, Alyssa\" is \"dryn\"."}
+{"sentence": "Vanessa, Casey, Justin, Eric", "output": "The concatenation of the last letters of the words \"Vanessa, Casey, Justin, Eric\" is \"aeyc\"."}
+{"sentence": "Jennifer, Mark, Brett, Randy", "output": "The concatenation of the last letters of the words \"Jennifer, Mark, Brett, Randy\" is \"rktY\"."}
+{"sentence": "Rhonda, Hector, Kelli, Sheila", "output": "\"aeia\""}
+{"sentence": "William, Cory, Shawn, Jennifer", "output": "\"nywn\""}
+{"sentence": "Cynthia, Kelly, David, Crystal", "output": "The concatenation of the last letters of the words \"Cynthia, Kelly, David, Crystal\" is \"ayld\"."}
+{"sentence": "Ricky, Kristen, Henry, Christopher", "output": "The concatenation of the last letters of the words \"Ricky, Kristen, Henry, Christopher\" is \"ynry\"."}
+{"sentence": "Nathan, Susan, Melissa, Ian", "output": "The concatenation of the last letters of the words \"Nathan, Susan, Melissa, Ian\" is \"nnaa\"."}
+{"sentence": "Christina, Danielle, Jeremy, Andrew", "output": "The concatenation of the last letters of the words \"Christina, Danielle, Jeremy, Andrew\" is \"aeeyw\"."}
+{"sentence": "Steven, Denise, Caitlin, Jonathon", "output": "The concatenation of the last letters of the words \"Steven, Denise, Caitlin, Jonathon\" is \"nein\"."}
+{"sentence": "Charles, Erik, Christopher, Lisa", "output": "The concatenation of the last letters of the words \"Charles, Erik, Christopher, Lisa\" is \"sria\"."}
+{"sentence": "Katelyn, Alexis, Joseph, Eric", "output": "The concatenation of the last letters of the words \"Katelyn, Alexis, Joseph, Eric\" is \"nsei\"."}
+{"sentence": "Allen, Diane, Tammy, Erin", "output": "The concatenation of the last letters of the words \"Allen, Diane, Tammy, Erin\" is \"enin\"."}
+{"sentence": "Caroline, Lindsay, Chelsea, Kenneth", "output": "The concatenation of the last letters of the words \"Caroline, Lindsay, Chelsea, Kenneth\" is \"eyayayth\"."}
+{"sentence": "Madison, Donna, James, Madison", "output": "The concatenation of the last letters of the words \"Madison, Donna, James, Madison\" is \"nonn\"."}
+{"sentence": "Elizabeth, Sherri, Tiffany, Adam", "output": "The concatenation of the last letters of the words \"Elizabeth, Sherri, Tiffany, Adam\" is \"thfy\"."}
+{"sentence": "Amber, Steven, David, John", "output": "The concatenation of the last letters of the words \"Amber, Steven, David, John\" is \"ernn\"."}
+{"sentence": "Eric, Ronald, Corey, Terri", "output": "The concatenation of the last letters of the words \"Eric, Ronald, Corey, Terri\" is \"cyry\"."}
+{"sentence": "Brandon, Elizabeth, Eric, Joseph", "output": "The concatenation of the last letters of the words \"Brandon, Elizabeth, Eric, Joseph\" is \"dnct\"."}
+{"sentence": "Melissa, Kevin, Anthony, Nicholas", "output": "\"na\""}
+{"sentence": "Tina, Julia, Raymond, Stephanie", "output": "The concatenation of the last letters of the words \"Tina, Julia, Raymond, Stephanie\" is \"aiay\"."}
+{"sentence": "Olivia, Christina, Miguel, David", "output": "The concatenation of the last letters of the words \"Olivia, Christina, Miguel, David\" is \"aiad\"."}
+{"sentence": "Christian, Michael, Grace, Robert", "output": "The concatenation of the last letters of the words \"Christian, Michael, Grace, Robert\" is \"nlea\"."}
+{"sentence": "Kayla, Alexandra, Dawn, Frank", "output": "The concatenation of the last letters of the words \"Kayla, Alexandra, Dawn, Frank\" is \"aadr\"."}
+{"sentence": "Christopher, Cody, Christopher, Melinda", "output": "\"hrad\""}
+{"sentence": "Steven, George, Isaac, Jennifer", "output": "The concatenation of the last letters of the words \"Steven, George, Isaac, Jennifer\" is \"neer\"."}
+{"sentence": "Valerie, Kevin, Ashley, George", "output": "The concatenation of the last letters of the words \"Valerie, Kevin, Ashley, George\" is \"eine\"."}
+{"sentence": "Malik, Joshua, Thomas, Andrew", "output": "The concatenation of the last letters of the words \"Malik, Joshua, Thomas, Andrew\" is \"khsd\"."}
+{"sentence": "Edward, Rebecca, Steven, Donna", "output": "The concatenation of the last letters of the words \"Edward, Rebecca, Steven, Donna\" is \"dnan\"."}
+{"sentence": "Richard, Jacob, Tanya, Jessica", "output": "\"hrat\""}
+{"sentence": "Robert, Zachary, Glenn, Erica", "output": "\"ynna\""}
+{"sentence": "Curtis, Anthony, Grant, Brittany", "output": "\"ysnt\""}
+{"sentence": "Brandi, Shannon, Dana, Michelle", "output": "The concatenation of the last letters of the words \"Brandi, Shannon, Dana, Michelle\" is \"inna\"."}
+{"sentence": "Erica, Christopher, Karen, Diane", "output": "The concatenation of the last letters of the words \"Erica, Christopher, Karen, Diane\" is \"arne\"."}
+{"sentence": "Raymond, Claire, Michelle, Cynthia", "output": "The concatenation of the last letters of the words \"Raymond, Claire, Michelle, Cynthia\" is \"dnen\"."}
+{"sentence": "Brandon, Benjamin, Shane, Kelly", "output": "The concatenation of the last letters of the words \"Brandon, Benjamin, Shane, Kelly\" is \"ndnye\"."}
+{"sentence": "Henry, Todd, Daniel, Maurice", "output": "The concatenation of the last letters of the words \"Henry, Todd, Daniel, Maurice\" is \"ydle\"."}
+{"sentence": "Anthony, Adam, Gail, Ronnie", "output": "The concatenation of the last letters of the words \"Anthony, Adam, Gail, Ronnie\" is \"yyie\"."}
+{"sentence": "Matthew, Melinda, Adam, Donna", "output": "The concatenation of the last letters of the words \"Matthew, Melinda, Adam, Donna\" is \"whna\"."}
+{"sentence": "Courtney, Zachary, Jennifer, Ashley", "output": "\"eyry\""}
+{"sentence": "Marcia, Molly, Whitney, Kathy", "output": "The concatenation of the last letters of the words \"Marcia, Molly, Whitney, Kathy\" is \"ayhy\"."}
+{"sentence": "Sharon, Justin, Catherine, Kimberly", "output": "The concatenation of the last letters of the words \"Sharon, Justin, Catherine, Kimberly\" is \"nnty\"."}
+{"sentence": "John, Elizabeth, Brittany, Michael", "output": "The concatenation of the last letters of the words \"John, Elizabeth, Brittany, Michael\" is \"hnhy\"."}
+{"sentence": "Bill, Breanna, Michael, Joseph", "output": "The concatenation of the last letters of the words \"Bill, Breanna, Michael, Joseph\" is \"llaaelh\"."}
+{"sentence": "Bonnie, Sherri, Michelle, Margaret", "output": "The concatenation of the last letters of the words \"Bonnie, Sherri, Michelle, Margaret\" is \"eirm\"."}
+{"sentence": "Victor, Patrick, Jeremy, Rita", "output": "The concatenation of the last letters of the words \"Victor, Patrick, Jeremy, Rita\" is \"rtry\"."}
+{"sentence": "Nicholas, Kara, Judy, Emily", "output": "The concatenation of the last letters of the words \"Nicholas, Kara, Judy, Emily\" is \"ssya\"."}
+{"sentence": "Renee, Lisa, Melvin, Lisa", "output": "\"eeia\""}
+{"sentence": "Thomas, Todd, David, Robyn", "output": "The concatenation of the last letters of the words \"Thomas, Todd, David, Robyn\" is \"ssdn\"."}
+{"sentence": "Douglas, James, Kim, Becky", "output": "The concatenation of the last letters of the words \"Douglas, James, Kim, Becky\" is \"ssmb\"."}
+{"sentence": "Pamela, Jonathan, Jeremy, Tiffany", "output": "\"amty\""}
+{"sentence": "Stephen, Jeffrey, Matthew, Juan", "output": "The concatenation of the last letters of the words \"Stephen, Jeffrey, Matthew, Juan\" is \"nfyu\"."}
+{"sentence": "Preston, Amy, Joshua, Pamela", "output": "\"nyaa\""}
+{"sentence": "Jason, Anthony, Sarah, Michele", "output": "The concatenation of the last letters of the words \"Jason, Anthony, Sarah, Michele\" is \"nyah\"."}
+{"sentence": "Reginald, Vanessa, Amanda, Linda", "output": "The concatenation of the last letters of the words \"Reginald, Vanessa, Amanda, Linda\" is \"dara\"."}
+{"sentence": "Joe, Angela, Timothy, Amanda", "output": "The concatenation of the last letters of the words \"Joe, Angela, Timothy, Amanda\" is \"eoay\"."}
+{"sentence": "Adam, Sonya, James, Maria", "output": "The concatenation of the last letters of the words \"Adam, Sonya, James, Maria\" is \"mssa\"."}
+{"sentence": "Keith, Brandi, Sean, Tina", "output": "The concatenation of the last letters of the words \"Keith, Brandi, Sean, Tina\" is \"htna\"."}
+{"sentence": "Mary, Kenneth, Brian, Lisa", "output": "The last letters of the words are \"y\", \"h\", \"n\", \"a\". So, the concatenation of the last letters is \"yhna\"."}
+{"sentence": "William, Christine, Paul, Linda", "output": "The concatenation of the last letters of the words \"William, Christine, Paul, Linda\" is \"ldla\"."}
+{"sentence": "Abigail, Jared, Alexandra, Beth", "output": "The concatenation of the last letters of the words \"Abigail, Jared, Alexandra, Beth\" is \"ldra\"."}
+{"sentence": "Dennis, Tonya, Clayton, Alison", "output": "The concatenation of the last letters of the words \"Dennis, Tonya, Clayton, Alison\" is \"syon\"."}
+{"sentence": "Cathy, Jonathan, Travis, Nicholas", "output": "The concatenation of the last letters of the words \"Cathy, Jonathan, Travis, Nicholas\" is \"ynss\"."}
+{"sentence": "Tamara, Kristin, John, Bradley", "output": "The concatenation of the last letters of the words \"Tamara, Kristin, John, Bradley\" is \"annd\"."}
+{"sentence": "Amanda, Eric, Carl, Jesse", "output": "The concatenation of the last letters of the words \"Amanda, Eric, Carl, Jesse\" is \"adrl\"."}
+{"sentence": "Cynthia, Christine, David, Robert", "output": "The concatenation of the last letters of the words \"Cynthia, Christine, David, Robert\" is \"aete\"."}
+{"sentence": "Sherri, Kimberly, Gregory, Elizabeth", "output": "\"iiet\""}
+{"sentence": "Andrew, Angela, Jennifer, Jason", "output": "The concatenation of the last letters of the words \"Andrew, Angela, Jennifer, Jason\" is \"wgan\"."}
+{"sentence": "Ashley, Deborah, Diana, Laura", "output": "The concatenation of the last letters of the words \"Ashley, Deborah, Diana, Laura\" is \"eyaa\"."}
+{"sentence": "Kristen, Russell, Ashley, Charles", "output": "\"nnse\""}
+{"sentence": "Alexandria, Elizabeth, Kelly, Courtney", "output": "The concatenation of the last letters of the words \"Alexandria, Elizabeth, Kelly, Courtney\" is \"aylyy\"."}
+{"sentence": "Jessica, Steven, Christine, Victoria", "output": "The concatenation of the last letters of the words \"Jessica, Steven, Christine, Victoria\" is \"anee\"."}
+{"sentence": "Christopher, Rebecca, Michael, Shawn", "output": "The concatenation of the last letters of the words \"Christopher, Rebecca, Michael, Shawn\" is \"rals\"."}
+{"sentence": "Sherry, Jason, Holly, Gregory", "output": "The concatenation of the last letters of the words \"Sherry, Jason, Holly, Gregory\" is \"ynly\"."}
+{"sentence": "Maria, Faith, Jeremiah, Tyler", "output": "The concatenation of the last letters of the words \"Maria, Faith, Jeremiah, Tyler\" is \"aher\"."}
+{"sentence": "Eugene, Jose, Phillip, Linda", "output": "The concatenation of the last letters of the words \"Eugene, Jose, Phillip, Linda\" is \"enad\"."}
+{"sentence": "Michele, Jennifer, Jennifer, Erin", "output": "The concatenation of the last letters of the words \"Michele, Jennifer, Jennifer, Erin\" is \"eern\"."}
+{"sentence": "Rebekah, Deanna, Caleb, Danielle", "output": "The concatenation of the last letters of the words \"Rebekah, Deanna, Caleb, Danielle\" is \"hane\"."}
+{"sentence": "Valerie, Samuel, Frederick, Justin", "output": "The concatenation of the last letters of the words \"Valerie, Samuel, Frederick, Justin\" is \"elkn\"."}
+{"sentence": "Chad, David, Douglas, James", "output": "The concatenation of the last letters of the words \"Chad, David, Douglas, James\" is \"djs\"."}
+{"sentence": "Chad, Chelsea, Peter, Frank", "output": "The concatenation of the last letters of the words \"Chad, Chelsea, Peter, Frank\" is \"daly\"."}
+{"sentence": "Thomas, Jacob, Veronica, Jennifer", "output": "The concatenation of the last letters of the words \"Thomas, Jacob, Veronica, Jennifer\" is \"sbnr\"."}
+{"sentence": "Ashley, Jennifer, Reginald, Michael", "output": "\"eyld\""}
+{"sentence": "Jennifer, Jesse, David, Mark", "output": "The concatenation of the last letters of the words \"Jennifer, Jesse, David, Mark\" is \"neda\"."}
+{"sentence": "Donna, Amy, Jonathon, Cindy", "output": "\"aydy\""}
+{"sentence": "Matthew, Christine, Justin, John", "output": "The concatenation of the last letters of the words \"Matthew, Christine, Justin, John\" is \"whnn\"."}
+{"sentence": "Max, David, Rachel, Christopher", "output": "The concatenation of the last letters of the words \"Max, David, Rachel, Christopher\" is \"xdla\"."}
+{"sentence": "Troy, James, John, Adam", "output": "The concatenation of the last letters of the words \"Troy, James, John, Adam\" is \"yess.\""}
+{"sentence": "Justin, Krista, Charles, Megan", "output": "The concatenation of the last letters of the words \"Justin, Krista, Charles, Megan\" is \"nast\"."}
+{"sentence": "April, Zachary, Sarah, Karina", "output": "The concatenation of the last letters of the words \"April, Zachary, Sarah, Karina\" is \"lrya\"."}
+{"sentence": "Jennifer, Anna, Vincent, Craig", "output": "The concatenation of the last letters of the words \"Jennifer, Anna, Vincent, Craig\" is \"nana\"."}
+{"sentence": "Michael, John, Michael, Rebekah", "output": "The concatenation of the last letters of the words \"Michael, John, Michael, Rebekah\" is \"lhnk\"."}
+{"sentence": "James, Jennifer, Jessica, Steven", "output": "\"sssn\""}
+{"sentence": "Elizabeth, Daniel, Charles, Noah", "output": "The concatenation of the last letters of the words \"Elizabeth, Daniel, Charles, Noah\" is \"hlsa\"."}
+{"sentence": "Jeff, Daniel, Richard, Ryan", "output": "The concatenation of the last letters of the words \"Jeff, Daniel, Richard, Ryan\" is \"fnrn\"."}
+{"sentence": "Anne, Ernest, Lisa, Ashley", "output": "\"eyae\""}
+{"sentence": "Jessica, Albert, David, Kim", "output": "The concatenation of the last letters of the words \"Jessica, Albert, David, Kim\" is \"ttdm\"."}
+{"sentence": "Michael, Loretta, Timothy, Victor", "output": "The concatenation of the last letters of the words \"Michael, Loretta, Timothy, Victor\" is \"ltry\"."}
+{"sentence": "George, Abigail, Kristopher, Veronica", "output": "\"eeia\""}
+{"sentence": "Robert, Nicholas, John, Lisa", "output": "The concatenation of the last letters of the words \"Robert, Nicholas, John, Lisa\" is \"tsna\"."}
+{"sentence": "Manuel, Manuel, Lindsay, Kenneth", "output": "\"llkn\""}
+{"sentence": "Stephen, Mary, John, Martin", "output": "\"nnjn\""}
+{"sentence": "Timothy, Tyrone, Thomas, Jared", "output": "The concatenation of the last letters of the words \"Timothy, Tyrone, Thomas, Jared\" is \"yent\"."}
+{"sentence": "Daniel, Harry, Joshua, Alejandro", "output": "The concatenation of the last letters of the words \"Daniel, Harry, Joshua, Alejandro\" is \"lyua\"."}
+{"sentence": "Kimberly, Robert, Lauren, Jeremy", "output": "\"ynrt\""}
+{"sentence": "Eric, Thomas, Todd, Erin", "output": "The concatenation of the last letters of the words \"Eric, Thomas, Todd, Erin\" is \"csdn\"."}
+{"sentence": "Sandy, Tyrone, Brittany, Luis", "output": "The concatenation of the last letters of the words \"Sandy, Tyrone, Brittany, Luis\" is \"eyit\"."}
+{"sentence": "Kristina, Angela, Sharon, Joshua", "output": "The concatenation of the last letters of the words \"Kristina, Angela, Sharon, Joshua\" is \"anah\"."}
+{"sentence": "Susan, Sarah, Benjamin, Michael", "output": "\"nrhl\""}
+{"sentence": "Joseph, Cheryl, Jessica, Michael", "output": "The concatenation of the last letters of the words \"Joseph, Cheryl, Jessica, Michael\" is \"lrla\"."}
+{"sentence": "Michele, Michael, Carl, Julian", "output": "The concatenation of the last letters of the words \"Michele, Michael, Carl, Julian\" is \"elal\"."}
+{"sentence": "Bianca, Regina, William, Jenna", "output": "\"anaa\""}
+{"sentence": "Jose, Stacy, Eric, Lauren", "output": "The concatenation of the last letters of the words \"Jose, Stacy, Eric, Lauren\" is \"eyrn\"."}
+{"sentence": "Brian, Victor, Neil, Jeffrey", "output": "The concatenation of the last letters of the words \"Brian, Victor, Neil, Jeffrey\" is \"nrtf\"."}

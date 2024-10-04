@@ -1,0 +1,6 @@
+Q: A coin is heads up. Ka flips the coin. Sherrie flips the coin. Is the coin still heads up?
+A: The coin was flipped by Ka and Sherrie. So the coin was flipped 2 times, which is an even number. The coin started heads up, so after an even number of flips, it will still be heads up. So the answer is yes.
+
+Q: A coin is heads up. Ka flips the coin. Sherrie flips the coin. Jamey flips the coin. Is the coin still heads up?
+A: The coin was flipped by Ka and Sherrie. Jamey also flipped the coin. So the coin was flipped by Ka, Sherrie and Jamey. So the coin was flipped 3 times, which is an odd number. The coin started heads up, so after an odd number of flips, it will be tails up. So the answer is no.
+

@@ -1,0 +1,5 @@
+Q: "Jean, Arthur"
+A: The last letter of "Jean" is "n". The last letter of "Arthur" is "r". Concatenating "n", "r" leads to "nr". So, "Jean, Arthur" outputs "nr".
+
+Q: "Jamie, Larry"
+A: The last letter of "Jamie" is "e". The last letter of "Larry" is "y". Concatenating "e", "y" leads to "ey". So, "Jamie, Larry" outputs "ey".

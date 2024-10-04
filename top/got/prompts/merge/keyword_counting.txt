@@ -1,0 +1,52 @@
+<Instruction> Combine the following 2 dictionaries, each containing the frequency of countries in a text, into a single dictionary.
+Simply add the frequencies together for each country and if a country is not present in one of the dictionaries, add it to the final dictionary with the frequency from the other dictionary.
+</Instruction>
+
+<Examples>
+Combine the following 2 dictionaries into a single dictionary:
+{{
+    "Cameroon": 3,
+    "France": 1,
+    "Japan": 6,
+    "Spain": 2
+}}
+{{"Spain": 1, "Qatar": 3, "Japan": 2, "Morocco": 7, "Germany": 2}}
+
+Let's think step by step.
+We first identify the keys in the first dictionary and include their corresponding values in parentheses:
+- "Cameroon" (3)
+- "France" (1)
+- "Japan" (6)
+- "Spain" (2)
+We identify the keys in the second dictionary and include their corresponding values in parentheses:
+- "Spain" (1)
+- "Qatar" (3)
+- "Japan" (2)
+- "Morocco" (7)
+- "Germany" (2)
+For each key listed above, we compute its total value by adding the corresponding value in each dictionary:
+- "Cameroon" (3 + 0 = 3)
+- "France" (1 + 0 = 1)
+- "Japan" (6 + 2 = 8)
+- "Spain" (2 + 1 = 3)
+- "Qatar" (0 + 3 = 3)
+- "Morocco" (0 + 7 = 7)
+- "Germany" (0 + 2 = 2)
+
+We then build the final dictionary
+Combined Output: {{
+    "Cameroon": 3,
+    "France": 1,
+    "Japan": 8,
+    "Spain": 3,
+    "Qatar": 3,
+    "Morocco": 7,
+    "Germany": 2
+}}
+</Examples>
+
+Combine the following 2 dictionaries into a single dictionary:
+{dictionary_1}
+{dictionary_2}
+
+Let's think step by step.

@@ -1,0 +1,5 @@
+Q: A coin is heads up. Ka flips the coin. Sherrie flips the coin. Is the coin still heads up?
+A: yes
+
+Q: A coin is heads up. Jamey flips the coin. Teressa flips the coin. Is the coin still heads up?
+A: yes

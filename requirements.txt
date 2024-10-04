@@ -1,0 +1,10 @@
+transformers
+datasets
+accelerate
+pandas
+numpy
+pandas
+vllm
+openai
+sentence-splitter
+Faker

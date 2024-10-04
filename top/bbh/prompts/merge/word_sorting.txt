@@ -1,0 +1,67 @@
+Sort a list of words.
+
+- Premise 1
+
+Q: Sort the following words alphabetically: List: oven costume
+A: costume oven
+
+- Premise 2
+
+Q: Sort the following words alphabetically: List: counterpart
+A: counterpart
+
+We can conclude that
+
+Q: Sort the following words alphabetically: List: oven costume counterpart
+A: Let's think step by step.
+According to the "Premise 1", we have A: costume oven. We then build a list A = costume oven.
+According to the "Premise 2", we have A: counterpart. We then build a list B = counterpart.
+Let's merge A and B in order to build a list C.
+With merge sort, C = costume counterpart oven.
+So the answer is costume counterpart oven.
+
+###
+
+- Premise 1
+
+Q: Sort the following words alphabetically: List: hypochlorite ponderosa 
+A: hypochlorite ponderosa
+
+- Premise 2
+
+Q: Sort the following words alphabetically: phone credulity
+A: credulity phone
+
+We can conclude that
+
+Q: Sort the following words alphabetically: List: hypochlorite ponderosa phone credulity
+A: Let's think step by step.
+According to the "Premise 1", we have A: hypochlorite ponderosa. We then build a list A = hypochlorite ponderosa.
+According to the "Premise 2", we have A: credulity phone. We then build a list B = credulity phone.
+Let's merge A and B in order to build a list C.
+With merge sort, C = credulity hypochlorite phone ponderosa.
+So the answer is credulity hypochlorite phone ponderosa.
+
+###
+
+- Premise 1
+
+Q: Sort the following words alphabetically: List: newt arson parthia seismography
+A: arson newt parthia seismography
+
+- Premise 2
+
+Q: Sort the following words alphabetically: List: mugho aspect census
+A: aspect census mugho
+
+We can conclude that
+
+Q: Sort the following words alphabetically: List: newt arson parthia seismography mugho aspect census
+A: Let's think step by step.
+According to the "Premise 1", we have A: arson newt parthia seismography. We then build a list A = arson newt parthia seismography.
+According to the "Premise 2", we have A: aspect census mugho. We then build a list B = aspect census mugho.
+Let's merge A and B in order to build a list C.
+With merge sort, we obtain C = arson aspect census mugho newt parthia seismography.
+So the answer is arson aspect census mugho newt parthia seismography.
+
+###

@@ -1,0 +1,25 @@
+MODEL_NAME_OR_PATH TOKENIZER_NAME_OR_PATH K SEED PROBLEM_NAME BREADTH DEPTH PORT_ID DATASET_NAME_OR_PATH METHOD_PROMPT
+
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 boolean_expressions 0 0 10100 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 dyck_languages 0 0 10110 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 hyperbaton 0 0 10120 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 multistep_arithmetic_two 0 0 10130 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 navigate 0 0 10140 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 object_counting 0 0 10150 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 tracking_shuffled_objects_three_objects 0 0 10170 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 tracking_shuffled_objects_five_objects 0 0 10180 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 tracking_shuffled_objects_seven_objects 0 0 10190 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 web_of_lies 0 0 10200 bbh cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 word_sorting 0 0 10210 bbh cot
+
+
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 8 122 algebraic 0 0 10100 algebraic_16_3.csv cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 8 122 coin 0 0 10200 coin_16.csv cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 8 122 concatenation 0 0 10300 concatenation_16.csv cot
+
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 set_intersection 0 0 10100 got cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 sorting 0 0 10200 got cot
+gpt-3.5-turbo-instruct gpt-3.5-turbo-instruct 3 122 keyword_counting 0 0 10300 got cot
+
+casperhansen/llama-3-70b-instruct-awq
+meta-llama/Meta-Llama-3-8B

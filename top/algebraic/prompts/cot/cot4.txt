@@ -1,0 +1,11 @@
+Q: 86 - 92 + 32 + 43 - 31 + 37 + 36 - 88
+A: Let's think step by step. Subtract, 86 - 92 = -6. Add, -6 + 32 = 26. Add, 26 + 43 = 69. Subtract, 69 - 31 = 38. Add, 38 + 37 = 75. Add, 75 + 36 = 111. Subtract, 111 - 88 = 23. So the answer is 23.
+
+Q: - 57 - 47 + 94 + 58 - 14 + 35 + 79 + 93
+A: Let's think step by step. Subtract, -57 - 47 = -104. Add, -104 + 94 = -10. Add, -10 + 58 = 48. Subtract, 48 - 14 = 34. Add, 34 + 35 = 69. Add, 69 + 79 = 148. Add, 148 + 93 = 241. So the answer is 241.
+
+Q: - 83 + 63 - 13 + 84 - 45 - 44 - 51 + 24
+A: Let's think step by step. Add, -83 + 63 = -20. Subtract, -20 - 13 = -33. Add, -33 + 84 = 51. Subtract, 51 - 45 = 6. Subtract, 6 - 44 = -38. Subtract, -38 - 51 = -89. Add, -89 + 24 = -65. So the answer is -65.
+
+Q: 62 + 72 - 19 + 92 + 71 + 29 - 30 + 33
+A: Let's think step by step. Add, 62 + 72 = 134. Subtract, 134 - 19 = 115. Add, 115 + 92 = 207. Add, 207 + 71 = 278. Add, 278 + 29 = 307. Subtract, 307 - 30 = 277. Add, 277 + 33 = 310. So the answer is 310.

@@ -1,0 +1,23 @@
+Q: 86 - 92 + 32 + 43 - 31 + 37 + 36 - 88
+A: Let's think step by step. Subtract, 86 - 92 = -6. Add, -6 + 32 = 26. Add, 26 + 43 = 69. Subtract, 69 - 31 = 38. Add, 38 + 37 = 75. Add, 75 + 36 = 111. Subtract, 111 - 88 = 23. So the answer is 23.
+
+Q: - 57 - 47 + 94 + 58 - 14 + 35 + 79 + 93
+A: Let's think step by step. Subtract, -57 - 47 = -104. Add, -104 + 94 = -10. Add, -10 + 58 = 48. Subtract, 48 - 14 = 34. Add, 34 + 35 = 69. Add, 69 + 79 = 148. Add, 148 + 93 = 241. So the answer is 241.
+
+Q: - 83 + 63 - 13 + 84 - 45 - 44 - 51 + 24
+A: Let's think step by step. Add, -83 + 63 = -20. Subtract, -20 - 13 = -33. Add, -33 + 84 = 51. Subtract, 51 - 45 = 6. Subtract, 6 - 44 = -38. Subtract, -38 - 51 = -89. Add, -89 + 24 = -65. So the answer is -65.
+
+Q: 62 + 72 - 19 + 92 + 71 + 29 - 30 + 33
+A: Let's think step by step. Add, 62 + 72 = 134. Subtract, 134 - 19 = 115. Add, 115 + 92 = 207. Add, 207 + 71 = 278. Add, 278 + 29 = 307. Subtract, 307 - 30 = 277. Add, 277 + 33 = 310. So the answer is 310.
+
+Q: - 39 + 61 + 85 - 73 + 94 - 64 - 62 + 58
+A: Let's think step by step. Add, -39 + 61 = 22. Add, 22 + 85 = 107. Subtract, 107 - 73 = 34. Add, 34 + 94 = 128. Subtract, 128 - 64 = 64. Subtract, 64 - 62 = 2. Add, 2 + 58 = 60. So the answer is 60.
+
+Q: - 44 - 24 + 37 + 91 + 75 - 78 - 45 - 67
+A: Let's think step by step. Subtract, -44 - 24 = -68. Add, -68 + 37 = -31. Add, -31 + 91 = 60. Add, 60 + 75 = 135. Subtract, 135 - 78 = 57. Subtract, 57 - 45 = 12. Subtract, 12 - 67 = -55. So the answer is -55.
+
+Q: 64 - 65 - 38 - 22 - 95 + 71 - 37 - 88
+A: Let's think step by step. Subtract, 64 - 65 = -1. Subtract, -1 - 38 = -39. Subtract, -39 - 22 = -61. Subtract, -61 - 95 = -156. Add, -156 + 71 = -85. Subtract, -85 - 37 = -122. Subtract, -122 - 88 = -210. So the answer is -210.
+
+Q: 40 - 42 + 62 + 45 - 75 + 51 - 80 - 75
+A: Let's think step by step. Subtract, 40 - 42 = -2. Add, -2 + 62 = 60. Add, 60 + 45 = 105. Subtract, 105 - 75 = 30. Add, 30 + 51 = 81. Subtract, 81 - 80 = 1. Subtract, 1 - 75 = -74. So the answer is -74.

@@ -1,0 +1,47 @@
+Given a series of navigation instructions, determine the coordinates (x, y) of the end point.
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (-2, -3), facing the negative y-axis? Take 2 steps right. Take 9 steps left. Turn right. Take 3 steps right. Take 4 steps. Turn around.
+A: Let's think step by step.
+We start at the point (-2, -3), facing the negative y-axis.
+(1) Take 2 steps right: (-4, -3), facing the negative y-axis.
+(2) Take 9 steps left: (5, -3), facing the negative y-axis.
+(3) Turn right: (5, -3), facing the negative x-axis.
+(4) Take 3 steps right: (5, 0), facing the negative x-axis.
+(5) Take 4 steps: (1, 0), facing the negative x-axis.
+(6) Turn around: (1, 0), facing the positive x-axis.
+So the answer is (1, 0).
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (0, 0), facing the positive x-axis? Always face forward. Take 2 steps right. Take 9 steps left. Turn right. Take 7 steps right. Take 3 steps backward.
+A: Let's think step by step.
+We start at the point (0, 0), facing the positive x-axis.
+(1) Always face forward: (0, 0), facing the positive x-axis.
+(2) Take 2 steps right: (0, -2), facing the positive x-axis.
+(3) Take 9 steps left: (0, 7), facing the positive x-axis.
+(4) Turn right: (0, 7), facing the negative y-axis.
+(5) Take 7 steps right: (-7, 7), facing the negative y-axis.
+(6) Take 3 steps backward: (-7, 10), facing the negative y-axis.
+So the answer is (-7, 10).
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (-9, 11), facing the negative x-axis? Turn around. Take 1 step. Take 6 steps. Turn right. Take 6 steps. Take 9 steps. Take 1 step.
+A: Let's think step by step.
+We start at the (-9, 11), facing the negative x-axis.
+(1) Turn around: (-9, 11), facing the positive x-axis.
+(2) Take 1 step: (-8, 11), facing the positive x-axis.
+(3) Take 6 steps: (-2, 11), facing the positive x-axis.
+(4) Turn right: (-2, 11), facing the negative y-axis.
+(5) Take 6 steps: (-2, 5), facing the negative y-axis.
+(6) Take 9 steps: (-2, -4), facing the negative y-axis.
+(7) Take 1 step: (-2, -5), facing the negative y-axis.
+So the answer is (-2, -5).
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (1, 4), facing the positive y-axis? Turn left. Turn around. Turn left. Take 7 steps. Take 2 steps. Take 4 steps backward. Take 8 steps.
+A: Let's think step by step.
+We start at the point (1, 4), facing the positive y-axis.
+(1) Turn left: (1, 4), facing the negative x-axis.
+(2) Turn around: (1, 4), facing the positive x-axis.
+(3) Turn left: (1, 4), facing the positive y-axis.
+(4) Take 7 steps: (1, 11), facing the positive y-axis.
+(5) Take 2 steps: (1, 13), facing the positive y-axis.
+(6) Take 4 steps backward: (1, 9), facing the positive y-axis.
+(7) Take 8 steps: (1, 17), facing the positive y-axis.
+So the answer is (1, 17).

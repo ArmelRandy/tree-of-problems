@@ -1,0 +1,105 @@
+Order adjectives correctly in English sentences.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+red silver shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "red silver shoe". (1) "red" falls into the color category. (2) "silver" falls into the material category. The sentence has the following order: [5. color] [7. material] (or, in numeric terms, 5 7). Because 5 < 7 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+beautiful round shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "beautiful round shoe". (1) "beautiful" falls into the opinion category. (2) "round" falls into the shape category. The sentence has the following order: [1. opinion] [4. shape] (or, in  numeric terms, 1 4). Because 1 < 4 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+We can conclude that
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+red silver beautiful round shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "red silver beautiful round shoe".
+According to the premises, the sentence "red silver shoe" has the following order before a noun: [5. color] [7. material] (or, in numeric terms, 5 7).
+According to the premises, the sentence "beautiful round shoe" has the following order before a noun: [1. opinion] [4. shape] (or, in  numeric terms, 1 4).
+The last element of the first list (5 7) is 7.
+The first element of the second list (1 4) is 1.
+Mathematically, we have the fact that 7 < 1 is False. That is, the last element (of the first list) is not smaller than the first element (of the second list). Therefore, "red silver beautiful round shoe" does not have the correct ordering. So the answer is No.
+
+###
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+Brazilian repulsive ship
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "Brazilian repulsive ship". (1) "Brazilian" falls into the origin category. (2) "repulsive" falls into the opinion category. The sentence has the following order: [6. origin] [1. opinion] (or, in numeric terms, 6 1). Because 6 < 1 is not correct, the sentence does not have the correct ordering. So the answer is No.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+exercise small ship
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "exercise small ship". (1) "exercise" falls into the purpose category. (2) "small" falls into the size category. The sentence has the following order: [8. purpose] [2. size] (or, in numeric terms, 8 2). Because 8 < 2 is not correct, the sentence does not have the correct ordering. So the answer is No.
+
+We can conclude that
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+Brazilian repulsive exercise small ship
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "Brazilian repulsive exercise small ship".
+According to the premises, the sentence "Brazilian repulsive ship" does not have the correct ordering. This is enough to conclude that the sentence "Brazilian repulsive exercise small ship" does not have the correct ordering. So the answer is No.
+
+###
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+charming large garden
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "charming large garden". (1) "charming" falls into the opinion category. (2) "large" falls into the size category. The sentence has the following order: [1. opinon] [2. size] (or, in numeric terms, 1 2). Because 1 < 2 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+French botanical garden
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "French botanical garden". (1) "French" falls into the origin category. (2) "botanical" falls into the purpose category. The sentence has the following order: [6. origin] [8. purpose] (or, in numeric terms, 6 8). Because 6 < 8 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+We can conclude that
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+charming large French botanical garden
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "charming large French botanical garden".
+According to the premises, the sentence "charming large garden" has the following order before a noun: [1. opinion] [2. size] (or, in numeric terms, 1 2). 
+According to the premises, the sentence "French botanical garden" has the following order before a noun: [6. origin] [8. purpose] (or, in  numeric terms, 6 8).
+The last element of the first list (1 2) is 2.
+The first element of the second list (6 8) is 6.
+Mathematically, we have the fact that 2 < 6 is True. That is, the last element (of the first list) is smaller than the first element (of the second list). Therefore, "charming large French botanical garden" has the correct ordering. So the answer is Yes.
+
+###
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+wonderful square shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "wonderful square shoe". (1) "wonderful" falls into the opinion category. (2) "square" falls into the shape category. The sentence has the following order: [1. opinion] [4. shape] (or, in numeric terms 1 4). Because 1 < 4 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+blue gold shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "blue gold shoe". (1) "blue" falls into the color category. (2) "gold" falls into the material category. The sentence has the following order: [5. color] [7. material] (or, in numeric terms 5 7). Because 5 < 7 is correct, the sentence has the correct ordering. So the answer is Yes.
+
+We can conclude that
+
+Q: Answer with Yes or No. Does the following sentence have the correct adjective order?
+wonderful square blue gold shoe
+A: Let's think step by step.
+When there is more than one adjective before a noun, the adjectives need to respect the following order before a noun: "[1. opinion] [2. size] [3. age] [4. shape] [5. color] [6. origin] [7. material] [8. purpose] noun".
+The sentence is "wonderful square blue gold shoe".
+According to the premises, the sentence "wonderful square shoe" has the following order before a noun: [1. opinion] [4. shape] (or, in numeric terms, 1 4). 
+According to the premises, the sentence "blue gold shoe" has the following order before a noun: [5. color] [7. material] (or, in  numeric terms, 5 7).
+The last element of the first list (1 4) is 4.
+The first element of the second list (5 7) is 5.
+Mathematically, we have the fact that 4 < 5 is True. That is, the last element (of the first list) is smaller than the first element (of the second list). Therefore, "wonderful square blue gold shoe" has the correct ordering. So the answer is Yes.
+
+###

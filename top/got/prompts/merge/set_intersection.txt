@@ -1,0 +1,16 @@
+<Instruction> Merge the following two lists into one list by appending the second list to the first list.
+Only output the final list without any additional text or thoughts! </Instruction>
+
+<Examples>
+List 1: [37, 29, 7]
+List 2: []
+Output: [37, 29, 7]
+
+List 1: [5, 7, 3, 32, 15, 27]
+List 2: [11, 0, 23, 8]
+Output: [5, 7, 3, 32, 15, 27, 11, 0, 23, 8]
+
+</Examples>
+
+List 1: {input1}
+List 2: {input2}

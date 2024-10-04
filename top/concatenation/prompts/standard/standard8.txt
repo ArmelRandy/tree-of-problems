@@ -1,0 +1,23 @@
+Q: "Jean, Arthur"
+A: "nr"
+
+Q: "Jamie, Larry"
+A: "ey"
+
+Q: "Helena, Tom"
+A: "am"
+
+Q: "Sergei, Alexandre"
+A: "ie"
+
+Q: "Eric, Shaun"
+A: "cn"
+
+Q: "Christopher, Wooh"
+A: "rh"
+
+Q: "Scott, April"
+A: "tl"
+
+Q: "Anthony, Sandra"
+A: "ya"

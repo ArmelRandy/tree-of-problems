@@ -1,0 +1,11 @@
+Q: "Jean, Arthur"
+A: The last letter of "Jean" is "n". The last letter of "Arthur" is "r". Concatenating "n", "r" leads to "nr". So, "Jean, Arthur" outputs "nr".
+
+Q: "Jean, Arthur, Jamie"
+A: "Jean, Arthur" outputs "nr". The last letter of "Jamie" is "e". Concatenating "nr", "e" leads to "nre". So, "Jean, Arthur, Jamie" outputs "nre".
+
+Q: "Helena, Tom"
+A: The last letter of "Helena" is "a". The last letter of "Tom" is "m". Concatenating "a", "m" leads to "am". So, "Helena, Tom" outputs "am".
+
+Q: "Helena, Tom, Sergei"
+A: "Helena, Tom" outputs "am". The last letter of "Sergei" is "i". Concatenating "am", "i" leads to "ami". So, "Helena, Tom, Sergei" outputs "ami".

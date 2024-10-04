@@ -1,0 +1,100 @@
+{"sentence": "215 + 418 - 173 - 129 + 663", "output": "Let's think step by step. 215 + 418 = 633. Subtract, 633 - 173 = 460. Subtract, 460 - 129 = 331. Add, 331 + 663 = 994. So the answer is 994."}
+{"sentence": "495 + 484 + 487 - 142 + 678", "output": "Let's think step by step. 495 + 484 = 979. Add, 979 + 487 = 1466. Subtract, 1466 - 142 = 1324. Add, 1324 + 678 = 2002. So the answer is 2002."}
+{"sentence": "243 - 412 - 653 - 907 + 857", "output": "Let's think step by step. 243 - 412 = -169. -169 - 653 = -822. -822 - 907 = -1729. Add, -1729 + 857 = -872. So the answer is -872."}
+{"sentence": "237 - 872 - 262 - 228 + 146", "output": "Let's think step by step. 237 - 872 = -635. -635 - 262 = -897. -897 - 228 = -1125. Add, -1125 + 146 = -979. So the answer is -979."}
+{"sentence": "- 892 + 841 + 576 + 898 + 969", "output": "Let's think step by step. -892 + 841 = -51. Add, -51 + 576 = 525. Add, 525 + 898 = 1423. Add, 1423 + 969 = 2392. So the answer is 2392."}
+{"sentence": "553 + 749 + 116 + 834 - 882", "output": "Let's think step by step. 553 + 749 = 1302. 1302 + 116 = 1418. 1418 + 834 = 2252. Subtract, 2252 - 882 = 1370. So the answer is 1370."}
+{"sentence": "- 295 + 710 + 403 + 192 + 106", "output": "Let's think step by step. -295 + 710 = 415. Add, 415 + 403 = 818. Add, 818 + 192 = 1010. Add, 1010 + 106 = 1116. So the answer is 1116."}
+{"sentence": "- 120 + 316 - 408 + 169 - 628", "output": "Let's think step by step. -120 + 316 = 196. Subtract, 196 - 408 = -212. Add, -212 + 169 = -43. Subtract, -43 - 628 = -671. So the answer is -671."}
+{"sentence": "- 626 - 786 + 623 - 663 + 921", "output": "Let's think step by step. -626 - 786 = -1412. Add, -1412 + 623 = -789. Subtract, -789 - 663 = -1452. Add, -1452 + 921 = -1531. So the answer is -1531."}
+{"sentence": "620 - 454 + 487 - 956 + 656", "output": "Let's think step by step. 620 - 454 = 166. Add, 166 + 487 = 653. Subtract, 653 - 956 = -303. Add, -303 + 656 = 353. So the answer is 353."}
+{"sentence": "210 + 503 + 765 - 110 + 122", "output": "Let's think step by step. 210 + 503 = 713. Add, 713 + 765 = 1478. Subtract, 1478 - 110 = 1368. Add, 1368 + 122 = 1490. So the answer is 1490."}
+{"sentence": "- 386 - 919 + 184 + 105 + 444", "output": "Let's think step by step. -386 - 919 = -1305. Add, -1305 + 184 = -1121. Add, -1121 + 105 = -1016. Add, -1016 + 444 = -572. So the answer is -572."}
+{"sentence": "807 - 748 - 844 + 824 + 114", "output": "Let's think step by step. 807 - 748 = 59. Subtract, 59 - 844 = - 785. Add, - 785 + 824 = 39. Add, 39 + 114 = 153. So the answer is 153."}
+{"sentence": "991 - 814 - 939 + 295 - 803", "output": "Let's think step by step. 991 - 814 = 177. Subtract, 177 - 939 = -762. Add, -762 + 295 = -467. Subtract, -467 - 803 = -1270. So the answer is -1270."}
+{"sentence": "- 337 + 163 - 845 + 915 + 433", "output": "Let's think step by step. -337 + 163 = -174. -174 - 845 = -1019. -1019 + 915 = -104. Add, -104 + 433 = 329. So the answer is 329."}
+{"sentence": "- 365 + 203 - 642 - 418 + 446", "output": "Let's think step by step. -365 + 203 = -162. -162 - 642 = -804. -804 - 418 = -1222. Add, -1222 + 446 = -776. So the answer is -776."}
+{"sentence": "666 + 605 - 943 + 306 - 464", "output": "Let's think step by step. 666 + 605 = 1271. Subtract, 1271 - 943 = 328. Add, 328 + 306 = 634. Subtract, 634 - 464 = 170. So the answer is 170."}
+{"sentence": "- 920 + 170 - 123 + 106 - 665", "output": "Let's think step by step. -920 + 170 = -750. -750 - 123 = -873. -873 + 106 = -767. Subtract, -767 - 665 = -1432. So the answer is -1432."}
+{"sentence": "- 622 - 111 + 923 - 659 - 416", "output": "Let's think step by step. -622 - 111 = -733. Add, -733 + 923 = 190. Subtract, 190 - 659 = -469. Add, -469 + 416 = -53. So the answer is -53."}
+{"sentence": "368 + 540 + 873 - 211 + 499", "output": "Let's think step by step. 368 + 540 = 908. Add, 908 + 873 = 1781. Subtract, 1781 - 211 = 1570. Add, 1570 + 499 = 2069. So the answer is 2069."}
+{"sentence": "- 113 - 889 - 383 - 875 - 803", "output": "Let's think step by step. -113 - 889 = -1002. -1002 - 383 = -1385. -1385 - 875 = -2260. Subtract, -2260 - 803 = -3063. So the answer is -3063."}
+{"sentence": "953 - 881 + 500 + 644 + 171", "output": "Let's think step by step. 953 - 881 = 72. Add, 72 + 500 = 572. Add, 572 + 644 = 1216. Add, 1216 + 171 = 1387. So the answer is 1387."}
+{"sentence": "- 524 + 631 + 563 - 190 + 844", "output": "Let's think step by step. -524 + 631 = 107. Add, 107 + 563 = 670. Subtract, 670 - 190 = 480. Add, 480 + 844 = 1324. So the answer is 1324."}
+{"sentence": "- 374 + 222 - 976 + 639 + 812", "output": "Let's think step by step. -374 + 222 = -152. -152 - 976 = -1128. -1128 + 639 = -489. Add, -489 + 812 = 323. So the answer is 323."}
+{"sentence": "- 901 - 704 + 626 + 239 - 361", "output": "Let's think step by step. -901 - 704 = -1605. -1605 + 626 = -979. -979 + 239 = -740. Subtract, -740 - 361 = -1101. So the answer is -1101."}
+{"sentence": "741 - 831 + 391 + 314 + 697", "output": "Let's think step by step. 741 - 831 = -90. Add, -90 + 391 = 301. Add, 301 + 314 = 615. Add, 615 + 697 = 1312. So the answer is 1312."}
+{"sentence": "477 - 463 + 766 - 980 + 839", "output": "Let's think step by step. 477 - 463 = 14. Add, 14 + 766 = 780. Subtract, 780 - 980 = -200. Add, -200 + 839 = 639. So the answer is 639."}
+{"sentence": "- 832 + 568 + 587 - 955 - 110", "output": "Let's think step by step. -832 + 568 = -264. Add, -264 + 587 = 323. Subtract, 323 - 955 = -632. Subtract, -632 - 110 = -742. So the answer is -742."}
+{"sentence": "- 425 - 534 - 417 - 354 - 332", "output": "Let's think step by step. -425 - 534 = -959. -959 - 417 = -1376. -1376 - 354 = -1730. Subtract, -1730 - 332 = -2062. So the answer is -2062."}
+{"sentence": "281 - 643 + 722 + 745 - 378", "output": "Let's think step by step. 281 - 643 = -362. Add, -362 + 722 = 360. Add, 360 + 745 = 1105. Subtract, 1105 - 378 = 727. So the answer is 727."}
+{"sentence": "- 572 - 592 + 500 + 904 - 346", "output": "Let's think step by step. -572 - 592 = -1164. Add, -1164 + 500 = -664. Add, -664 + 904 = 240. Subtract, 240 - 346 = -106. So the answer is -106."}
+{"sentence": "783 + 175 + 264 - 298 - 218", "output": "Let's think step by step. 783 + 175 = 958. Add, 958 + 264 = 1222. Subtract, 1222 - 298 = 924. Subtract, 924 - 218 = 706. So the answer is 706."}
+{"sentence": "827 - 569 + 266 + 710 - 370", "output": "Let's think step by step. 827 - 569 = 258. Add, 258 + 266 = 524. Add, 524 + 710 = 1234. Subtract, 1234 - 370 = 864. So the answer is 864."}
+{"sentence": "- 610 + 424 - 631 - 439 - 819", "output": "Let's think step by step. -610 + 424 = -186. -186 - 631 = -817. -817 - 439 = -1256. Subtract, -1256 - 819 = -2075. So the answer is -2075."}
+{"sentence": "- 250 - 496 - 505 - 882 + 279", "output": "Let's think step by step. -250 - 496 = -746. -746 - 505 = -1251. -1251 - 882 = -2133. Add, -2133 + 279 = -1854. So the answer is -1854."}
+{"sentence": "334 - 582 + 989 - 805 - 898", "output": "Let's think step by step. 334 - 582 = -248. Add, -248 + 989 = 741. Subtract, 741 - 805 = -64. Add, -64 - 898 = -962. So the answer is -962."}
+{"sentence": "293 + 503 - 347 - 265 + 766", "output": "Let's think step by step. 293 + 503 = 796. Subtract, 796 - 347 = 449. Subtract, 449 - 265 = 184. Add, 184 + 766 = 950. So the answer is 950."}
+{"sentence": "991 - 315 + 407 + 521 - 410", "output": "Let's think step by step. 991 - 315 = 676. Add, 676 + 407 = 1083. Add, 1083 + 521 = 1604. Subtract, 1604 - 410 = 1194. So the answer is 1194."}
+{"sentence": "101 + 585 + 486 - 302 - 722", "output": "Let's think step by step. 101 + 585 = 686. Add, 686 + 486 = 1172. Subtract, 1172 - 302 = 870. Subtract, 870 - 722 = 148. So the answer is 148."}
+{"sentence": "413 - 476 + 312 + 682 - 247", "output": "Let's think step by step. 413 - 476 = -63. Add, -63 + 312 = 249. Add, 249 + 682 = 931. Subtract, 931 - 247 = 684. So the answer is 684."}
+{"sentence": "350 - 853 + 773 - 791 - 200", "output": "Let's think step by step. 350 - 853 = -503. Add, -503 + 773 = 270. Subtract, 270 - 791 = -521. Add, -521 - 200 = -721. So the answer is -721."}
+{"sentence": "- 216 - 354 - 943 - 754 + 579", "output": "Let's think step by step. -216 - 354 = -570. -570 - 943 = -1513. -1513 - 754 = -2267. Add, -2267 + 579 = -1688. So the answer is -1688."}
+{"sentence": "- 527 + 343 - 372 + 956 + 361", "output": "Let's think step by step. -527 + 343 = -184. -184 - 372 = -556. -556 + 956 = 400. Add, 400 + 361 = 761. So the answer is 761."}
+{"sentence": "- 135 + 811 - 445 - 608 - 832", "output": "Let's think step by step. -135 + 811 = 676. Subtract, 676 - 445 = 231. Subtract, 231 - 608 = -377. Subtract, -377 - 832 = -1209. So the answer is -1209."}
+{"sentence": "- 901 - 748 - 820 - 960 - 691", "output": "Let's think step by step. -901 - 748 = -1649. -1649 - 820 = -2469. -2469 - 960 = -3429. Subtract, -3429 - 691 = -4120. So the answer is -4120."}
+{"sentence": "- 188 - 477 - 980 - 858 + 810", "output": "Let's think step by step. -188 - 477 = -665. -665 - 980 = -1645. -1645 - 858 = -2503. Add, -2503 + 810 = -1693. So the answer is -1693."}
+{"sentence": "196 - 544 - 559 - 746 + 430", "output": "Let's think step by step. 196 - 544 = -348. -348 - 559 = -907. -907 - 746 = -1653. Add, -1653 + 430 = -1223. So the answer is -1223."}
+{"sentence": "- 351 - 824 + 147 + 832 + 470", "output": "Let's think step by step. -351 - 824 = -1175. Add, -1175 + 147 = -1028. Add, -1028 + 832 = -196. Add, -196 + 470 = 274. So the answer is 274."}
+{"sentence": "175 - 380 - 342 - 899 + 264", "output": "Let's think step by step. 175 - 380 = -205. -205 - 342 = -547. -547 - 899 = -1446. Add, -1446 + 264 = -1182. So the answer is -1182."}
+{"sentence": "- 592 - 284 + 769 - 379 + 556", "output": "Let's think step by step. -592 - 284 = -876. Add, -876 + 769 = -107. Add, -107 + 769 = 662. Subtract, 662 - 379 = 283. Add, 283 + 556 = 839. So the answer is 839."}
+{"sentence": "- 915 - 771 - 514 - 489 - 600", "output": "Let's think step by step. -915 - 771 = -1686. -1686 - 514 = -2200. -2200 - 489 = -2689. Subtract, -2689 - 600 = -3289. So the answer is -3289."}
+{"sentence": "- 802 - 937 + 514 + 951 - 523", "output": "Let's think step by step. -802 - 937 = -1739. Add, -1739 + 514 = -1225. Add, -1225 + 951 = -274. Subtract, -274 - 523 = -797. So the answer is -797."}
+{"sentence": "857 + 216 - 749 - 523 - 997", "output": "Let's think step by step. 857 + 216 = 1073. Subtract, 1073 - 749 = 324. Subtract, 324 - 523 = -199. Subtract, -199 - 997 = -1196. So the answer is -1196."}
+{"sentence": "- 159 - 281 - 131 + 469 - 850", "output": "Let's think step by step. -159 - 281 = -440. -440 - 131 = -571. -571 + 469 = -102. Subtract, -102 - 850 = -952. So the answer is -952."}
+{"sentence": "136 - 454 - 886 - 986 + 521", "output": "Let's think step by step. 136 - 454 = -318. -318 - 886 = -1204. -1204 - 986 = -2190. Add, -2190 + 521 = -1669. So the answer is -1669."}
+{"sentence": "- 283 - 859 + 633 + 951 + 970", "output": "Let's think step by step. -283 - 859 = -1142. Add, -1142 + 633 = -509. Add, -509 + 951 = 442. Add, 442 + 970 = 1412. So the answer is 1412."}
+{"sentence": "643 - 964 - 522 + 102 - 496", "output": "Let's think step by step. 643 - 964 = -321. Subtract, -321 - 522 = -843. Add, -843 + 102 = -741. Subtract, -741 - 496 = -1237. So the answer is -1237."}
+{"sentence": "- 230 - 516 - 705 - 107 + 647", "output": "Let's think step by step. -230 - 516 = -746. -746 - 705 = -1451. -1451 - 107 = -1558. Add, -1558 + 647 = -911. So the answer is -911."}
+{"sentence": "- 802 + 621 + 412 + 249 - 527", "output": "Let's think step by step. -802 + 621 = -181. -181 + 412 = 231. 231 + 249 = 480. Subtract, 480 - 527 = -47. So the answer is -47."}
+{"sentence": "553 - 256 + 722 + 190 - 788", "output": "Let's think step by step. 553 - 256 = 297. Add, 297 + 722 = 1019. Add, 1019 + 190 = 1209. Subtract, 1209 - 788 = 421. So the answer is 421."}
+{"sentence": "- 675 - 538 - 886 + 530 + 630", "output": "Let's think step by step. -675 - 538 = -1213. Subtract, -1213 - 886 = -2099. Add, -2099 + 530 = -1569. Add, -1569 + 630 = -939. So the answer is -939."}
+{"sentence": "- 377 - 542 + 768 - 939 + 673", "output": "Let's think step by step. -377 - 542 = -919. Add, -919 + 768 = -151. Add, -151 + 673 = 522. Subtract, 522 - 939 = -417. So the answer is -417."}
+{"sentence": "- 894 + 538 - 735 + 199 - 279", "output": "Let's think step by step. -894 + 538 = -356. -356 - 735 = -1091. -1091 + 199 = -892. Subtract, -892 - 279 = -1171. So the answer is -1171."}
+{"sentence": "453 + 794 - 458 + 610 - 871", "output": "Let's think step by step. 453 + 794 = 1247. Subtract, 1247 - 458 = 789. Add, 789 + 610 = 1399. Subtract, 1399 - 871 = 528. So the answer is 528."}
+{"sentence": "- 516 - 586 + 877 + 201 + 409", "output": "Let's think step by step. -516 - 586 = -1102. Add, -1102 + 877 = -225. Add, -225 + 201 = -24. Add, -24 + 409 = 385. So the answer is 385."}
+{"sentence": "292 + 989 - 725 - 584 + 765", "output": "Let's think step by step. 292 + 989 = 1281. Subtract, 1281 - 725 = 556. Subtract, 556 - 584 = -28. Add, -28 + 765 = 737. So the answer is 737."}
+{"sentence": "160 - 722 - 925 + 139 - 284", "output": "Let's think step by step. 160 - 722 = -562. Subtract, -562 - 925 = -1487. Add, -1487 + 139 = -1348. Subtract, -1348 - 284 = -1632. So the answer is -1632."}
+{"sentence": "496 - 127 + 482 - 741 + 785", "output": "Let's think step by step. 496 - 127 = 369. Add, 369 + 482 = 851. Subtract, 851 - 741 = 110. Add, 110 + 785 = 895. So the answer is 895."}
+{"sentence": "770 + 597 - 764 + 504 + 360", "output": "Let's think step by step. 770 + 597 = 1367. Subtract, 1367 - 764 = 603. Add, 603 + 504 = 1107. Add, 1107 + 360 = 1467. So the answer is 1467."}
+{"sentence": "- 684 - 904 - 989 - 991 + 347", "output": "Let's think step by step. -684 - 904 = -1588. -1588 - 989 = -2577. -2577 - 991 = -3568. Add, -3568 + 347 = -3221. So the answer is -3221."}
+{"sentence": "- 756 + 161 + 698 + 672 + 791", "output": "Let's think step by step. -756 + 161 = -595. Add, -595 + 698 = 103. Add, 103 + 672 = 775. Add, 775 + 791 = 1566. So the answer is 1566."}
+{"sentence": "- 552 - 178 + 277 - 568 + 581", "output": "Let's think step by step. -552 - 178 = -730. Add, -730 + 277 = -453. Add, -453 + 277 = -176. Subtract, -176 - 568 = -744. Add, -744 + 581 = -163. So the answer is -163."}
+{"sentence": "- 710 - 129 + 542 - 902 - 784", "output": "Let's think step by step. -710 - 129 = -839. Add, -839 + 542 = -297. Subtract, -297 - 902 = -1199. Add, -1199 + 784 = -415. So the answer is -415."}
+{"sentence": "462 + 614 - 138 + 736 + 415", "output": "Let's think step by step. 462 + 614 = 1076. Subtract, 1076 - 138 = 938. Add, 938 + 736 = 1674. Add, 1674 + 415 = 2089. So the answer is 2089."}
+{"sentence": "471 - 958 - 220 + 968 - 846", "output": "Let's think step by step. 471 - 958 = -487. Subtract, -487 - 220 = -707. Add, -707 + 968 = 261. Subtract, 261 - 846 = -585. So the answer is -585."}
+{"sentence": "986 - 923 + 554 - 372 - 585", "output": "Let's think step by step. 986 - 923 = 63. Add, 63 + 554 = 617. Subtract, 617 - 372 = 245. Subtract, 245 - 585 = -340. So the answer is -340."}
+{"sentence": "- 502 - 780 + 993 + 765 + 103", "output": "Let's think step by step. -502 - 780 = -1282. Add, -1282 + 993 = -1289. Add, -1289 + 765 = -524. Add, -524 + 103 = -421. So the answer is -421."}
+{"sentence": "- 498 + 609 - 613 - 181 + 869", "output": "Let's think step by step. -498 + 609 = 111. Subtract, 111 - 613 = -502. Subtract, -502 - 181 = -683. Add, -683 + 869 = 186. So the answer is 186."}
+{"sentence": "- 502 - 647 + 759 + 267 + 505", "output": "Let's think step by step. -502 - 647 = -1149. Add, -1149 + 759 = -390. Add, -390 + 267 = -123. Add, -123 + 505 = 382. So the answer is 382."}
+{"sentence": "- 607 - 707 + 331 - 159 - 366", "output": "Let's think step by step. -607 - 707 = -1314. Add, -1314 + 331 = -983. Add, -983 + 331 = -652. Subtract, -652 - 159 = -811. Subtract, -811 - 366 = -1177. So the answer is -1177."}
+{"sentence": "- 620 + 983 + 471 + 662 + 611", "output": "Let's think step by step. -620 + 983 = 363. Add, 363 + 471 = 834. Add, 834 + 662 = 1496. Add, 1496 + 611 = 2107. So the answer is 2107."}
+{"sentence": "- 764 + 466 - 947 + 281 - 835", "output": "Let's think step by step. -764 + 466 = -298. -298 - 947 = -1245. -1245 + 281 = -964. Subtract, -964 - 835 = -1799. So the answer is -1799."}
+{"sentence": "397 - 863 + 776 + 646 + 255", "output": "Let's think step by step. 397 - 863 = -466. Add, -466 + 776 = 310. Add, 310 + 646 = 956. Add, 956 + 255 = 1211. So the answer is 1211."}
+{"sentence": "- 791 + 539 + 166 - 189 - 602", "output": "Let's think step by step. -791 + 539 = -252. -252 + 166 = -86. -86 - 189 = -275. Subtract, -275 - 602 = -877. So the answer is -877."}
+{"sentence": "- 945 - 345 - 123 + 935 - 181", "output": "Let's think step by step. -945 - 345 = -1290. -1290 - 123 = -1413. -1413 + 935 = -478. Subtract, -478 - 181 = -659. So the answer is -659."}
+{"sentence": "- 718 + 401 + 847 - 221 + 850", "output": "Let's think step by step. -718 + 401 = -317. Add, -317 + 847 = 530. Subtract, 530 - 221 = 309. Add, 309 + 850 = 1159. So the answer is 1159."}
+{"sentence": "- 155 - 665 + 127 + 345 - 482", "output": "Let's think step by step. -155 - 665 = -820. Add, -820 + 127 = -693. Add, -693 + 345 = -348. Subtract, -348 - 482 = -830. So the answer is -830."}
+{"sentence": "- 449 + 228 - 843 - 437 - 394", "output": "Let's think step by step. -449 + 228 = -221. Subtract, -221 - 843 = -1064. Subtract, -1064 - 437 = -1501. Subtract, -1501 - 394 = -1895. So the answer is -1895."}
+{"sentence": "514 + 708 - 802 + 863 + 168", "output": "Let's think step by step. 514 + 708 = 1222. Subtract, 1222 - 802 = 420. Add, 420 + 863 = 1283. Add, 1283 + 168 = 1451. So the answer is 1451."}
+{"sentence": "987 - 983 + 325 - 517 - 646", "output": "Let's think step by step. 987 - 983 = 4. Add, 4 + 325 = 329. Subtract, 329 - 517 = -188. Add, -188 + 646 = 458. So the answer is 458."}
+{"sentence": "- 478 - 488 + 453 + 597 - 859", "output": "Let's think step by step. -478 - 488 = -966. Add, -966 + 453 = -513. Add, -513 + 597 = 84. Subtract, 84 - 859 = -775. So the answer is -775."}
+{"sentence": "264 + 638 + 622 + 179 + 177", "output": "Let's think step by step. 264 + 638 = 902. 902 + 622 = 1524. 1524 + 179 = 1703. Add, 1703 + 177 = 1880. So the answer is 1880."}
+{"sentence": "- 270 + 978 + 110 + 228 + 517", "output": "Let's think step by step. -270 + 978 = 708. Add, 708 + 110 = 818. Add, 818 + 228 = 1046. Add, 1046 + 517 = 1563. So the answer is 1563."}
+{"sentence": "- 303 - 951 - 827 - 389 + 325", "output": "Let's think step by step. -303 - 951 = -1254. -1254 - 827 = -2081. -2081 - 389 = -2470. Add, -2470 + 325 = -2145. So the answer is -2145."}
+{"sentence": "- 265 - 571 - 599 - 152 + 889", "output": "Let's think step by step. -265 - 571 = -836. -836 - 599 = -1435. -1435 - 152 = -1587. Add, -1587 + 889 = -698. So the answer is -698."}
+{"sentence": "684 - 747 - 528 - 656 + 787", "output": "Let's think step by step. 684 - 747 = -63. -63 - 528 = -591. -591 - 656 = -1247. Add, -1247 + 787 = -460. So the answer is -460."}
+{"sentence": "- 299 - 206 + 132 + 632 - 452", "output": "Let's think step by step. -299 - 206 = -505. Add, -505 + 132 = -373. Add, -373 + 632 = 259. Subtract, 259 - 452 = -193. So the answer is -193."}
+{"sentence": "- 690 + 955 + 329 - 737 - 115", "output": "Let's think step by step. -690 + 955 = 265. Add, 265 + 329 = 594. Subtract, 594 - 737 = -143. Subtract, -143 - 115 = -258. So the answer is -258."}
+{"sentence": "517 - 455 - 895 - 875 - 533", "output": "Let's think step by step. 517 - 455 = 62. Subtract, 62 - 895 = -833. Subtract, -833 - 875 = -1708. Subtract, -1708 - 533 = -2241. So the answer is -2241."}
+{"sentence": "199 - 199 + 745 + 960 + 236", "output": "Let's think step by step. 199 - 199 = 0. Add, 0 + 745 = 745. Add, 745 + 960 = 1705. Add, 1705 + 236 = 1941. So the answer is 1941."}

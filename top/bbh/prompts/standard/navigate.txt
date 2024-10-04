@@ -1,0 +1,10 @@
+Given a series of navigation instructions, determine the coordinates (x, y) of the end point.
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (0, 0), facing the positive y-axis? Turn left. Turn around. Turn left. Take 7 steps. Take 2 steps. Take 4 steps. Take 8 steps.
+A: (0, 21)
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (0, 0), facing the positive y-axis? Turn around. Take 1 step. Take 6 steps. Turn around. Take 6 steps. Take 9 steps. Take 1 step.
+A: (0, 9)
+
+Q: If you follow these instructions, what are the coordinates of the end point if you start at the point (0, 0), facing the positive y-axis? Always face forward. Take 2 steps right. Take 9 steps left. Take 7 steps right.
+A: (0, 0)

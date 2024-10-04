@@ -1,0 +1,17 @@
+<Instruction> Split the following list of 32 numbers into 2 lists of 16 numbers each, the first list should contain the first 16 numbers and the second list the second 16 numbers.
+Only output the 2 lists in the following format without any additional text or thoughts!:
+{{
+    "List 1": [13, 16, 30, 6, 21, 7, 31, ...],
+    "List 2": [25, 24, 10, 4, 27, 0, 14, ...]
+}} </Instruction>
+
+<Example>
+Input: [26, 40, 42, 57, 15, 31, 5, 32, 11, 4, 24, 28, 51, 54, 12, 22, 33, 35, 7, 13, 2, 59, 8, 23, 43, 16, 29, 55, 25, 63, 21, 18]
+Output:
+{{
+    "List 1": [26, 40, 42, 57, 15, 31, 5, 32, 11, 4, 24, 28, 51, 54, 12, 22],
+    "List 2": [33, 35, 7, 13, 2, 59, 8, 23, 43, 16, 29, 55, 25, 63, 21, 18]
+}}
+</Example>
+
+Input: {input}

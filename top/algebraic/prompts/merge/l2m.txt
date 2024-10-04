@@ -1,0 +1,5 @@
+Q: 80 + 28
+A: Let's think step by step. Add, 80 + 28 = 108. So the answer is 108.
+
+Q: 80 + 28 - 10
+A: Let's think step by step. 80 + 28 = 108. Subtract, 108 - 10 = 98. So the answer is 98.
