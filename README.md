@@ -1,6 +1,6 @@
 # Official Repo of Tree of Problems (ToP)
 
-Official implementation of [Tree of Problems: Improving structured problem solving with compositionality]() with code, prompts and model outputs.
+Official implementation of [Tree of Problems: Improving structured problem solving with compositionality](https://arxiv.org/abs/2410.06634) with code, prompts and model outputs.
 
 ![](figures/pngs/fig2.png)
 
@@ -275,4 +275,13 @@ If you find this repository valuable, please give it a star!
 Please cite the following if you use the data or code in this repository.
 
 ```
+@misc{zebaze2024treeproblemsimprovingstructured,
+      title={Tree of Problems: Improving structured problem solving with compositionality}, 
+      author={Armel Zebaze and Benoît Sagot and Rachel Bawden},
+      year={2024},
+      eprint={2410.06634},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.06634}, 
+}
 ```
