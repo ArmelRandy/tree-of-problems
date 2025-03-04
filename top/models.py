@@ -114,6 +114,17 @@ def apply_template(key):
         return (
             lambda prompt: f"<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\nCutting Knowledge Date: December 2023\nToday Date: 26 Jul 2024\n\nYou are a helpful assistant.<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
         )
+    elif key in [
+         "Qwen/Qwen2.5-0.5B-Instruct",
+         "Qwen/Qwen2.5-1.5B-Instruct",
+         "Qwen/Qwen2.5-7B-Instruct",
+         "Qwen/Qwen2.5-32-Instruct",
+         "Qwen/Qwen2.5-0.5B-Instruct-AWQ",
+         "Qwen/Qwen2.5-1.5B-Instruct-AWQ",
+         "Qwen/Qwen2.5-7B-Instruct-AWQ",
+         "Qwen/Qwen2.5-32-Instruct-AWQ"
+    ]:
+        return lambda prompt: f"<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\n{prompt}<|im_end|>\n<|im_start|>assistant\n"
     elif key in ["gpt-4o-mini-2024-07-18", "gpt-3.5-turbo-instruct"]:
         return lambda prompt: prompt
     else:
